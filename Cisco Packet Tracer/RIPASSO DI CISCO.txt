@@ -1,0 +1,16 @@
+RICORDA: DNS UTILIZZA L'UDP CON LA PORTA 53
+- BLOCCARE UN PACCHETTO IP
+access list 100 ip (host) host_mittente wild_card (host) host_ricevente wildcard
+
+- BLOCCARE UN PACCHETTO TCP 
+access list 100 tcp host_mittente host_destinatario
+
+- BLOCCARE UN PACCHETTO TCP SU UNA PORTA
+access list 100 tcp host_mittente host_destinatario EQ 80 (80 = http | 443 = https)
+
+- BLOCCARE LA CREAZIONE DI UN CERTO TIPO DI PACCHETTO DA UN SERVER
+access list 100 tcp host ip_server_mittente any ESTABLISHED 
+
+- BLOCCARE DEI PACCHETTI DI DNS ESTERNI ALLA RETE
+access list 100 deny UDP any any EQ 53
+access list 100 permit ip any any

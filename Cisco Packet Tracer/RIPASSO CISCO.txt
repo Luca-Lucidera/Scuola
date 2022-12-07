@@ -1,0 +1,50 @@
+IMPERDIRE LA CREAZIONE DI PACCHETTI TCP A UN SERVER (OVVERO DOBBIAMO PERMETTERE PACCHETTI TCP SE C'è UNA CONNESSIONE GIA' STABILITA)
+ACCESS-LIST 100 PERMIT TCP 192.168.0.10 ANY ESTABLISHED
+
+proteggere il server web AGORA bloccando qualsiasi connessione in entrata che non sia TCP - porta:80 devo permettere i pacchetti tcp sulla porta 80
+access-list 101 permit tcp any host 192.168.0.10 eq 80
+access-list 101 permit tcp any host 192.168.0.10 eq 443
+
+il server web AGORA non può inviare qualsiasi altro tipo di pacchetto
+non devo fare niente perchè nelle altre regole c'è già il "deny any any"
+
+i pc nella rete scolastica NON possono usare server DNS esterni alla scuola (RICORDA, il server DNS funziona sulla porta 53 e usa l'UDP)
+access-list 102 deny udp any any eq 53
+access-list 102 permit ip any any
+
+il server ismonnet.it non può ricevere connessioni da il server DNS pubblico
+
+il server DHCP può inviare pacchetti solo sulla rete WIFI
+access-list 103 permit ip host 192.168.0.2 172.22.0.0 0.0.255.255
+
+la rete WIFI  non può comunicare con i PC della rete cablata ( e viceversa )
+access-list 104 deny ip 172.16.0.0 0.0.255.255 172.22.0.0 0.0.255.255
+access-list 104 permit any any
+
+access-list 105 deny ip 172.22.0.0 0.0.255.255 172.16.0.0 0.0.255.255
+access-list 105 permit ip any any
+
+_____________________________________________________________________________________________________________________________________________________
+Calcolo delle wildcard in binario
+RETE WIFI 172.22.0.0 
+TUTTI GLI INDIRIZZI DA 172.22.0.0 - 172.22.0.255 | 172.22.14.0 - 172.22.17.13 [POSSONO COMUNICARE]
+PRIMA REGOLA 172.22.0.0  0.0.0.255
+SECONDA REGOLA: {
+ 172.22.00001110.00110010 -> INDIRIZZO DI PARTENZA
+ 0.0.   00000000.00000000
+ 0.0.   00000000.00000001 -> NUOVO INDIRIZZO DI PARTENZA 
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+

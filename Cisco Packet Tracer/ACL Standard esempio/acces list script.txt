@@ -1,0 +1,29 @@
+CREAZIONE DELLA LISTA
+conf t
+
+acces-list ?
+
+acces-list 1 ?
+
+acces-list 1 deny ?
+
+acces-list 1 deny host indirizzo_ip_dell'host
+
+acces-list 1 permit any 
+[SE SBAGLI QUALCOSA FAI: no acces-list 1]
+------------------------------------------------------
+Associazione della lista a una porta
+conf t
+interface fastEthernet 1/0
+
+ip access-group 1 in (o out se la porta è in output, in questo esempio è in input)
+----------------------------------------------------------
+WILD CARD
+
+8 =  000010 | 00
+9 =  000010 | 01
+10 = 000010 | 10
+11 = 000010 | 11
+
+	000000 | 11
+192.168.1.8 0.0.0.3 (0.0.0.3 è la maschera di rete, ma al contrario)

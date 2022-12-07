@@ -1,0 +1,28 @@
+Router ISP esterno configurato in DHCP:
+conf t
+ip dhcp pool isp 
+network 80.22.36.1 255.255.255.0
+exit
+ip dhcp exclueded-address 80.22.36.1 80.22.36.1
+poi configuro la porta del router con quello inserito qui
+
+ROUTER INTERNO RETE DI CASA
+conf t
+interface FastEthernet 4/0
+ip address dhcp
+
+----------------------------------------------------
+Nat overload
+ROUTER DI CASA:
+conf t
+access-list 10 permit 192.168.1.0 0.0.0.255
+interface Fa 0/0
+ip nat inside
+inteface fa 4/0
+ip nat outside
+exit
+ip nat inside source list 10 interface fa 4/0 overload
+
+IMPOSTARE IL RIP QUANDO NON HO L'INDIRIZZO
+conf t
+ip route 0.0.0.0 0.0.0.0 Fa4/0  //0.0.0.0 è per mandare un pacchetto in broadcast
