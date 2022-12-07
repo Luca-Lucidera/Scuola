@@ -1,0 +1,26 @@
+﻿<Window x:Class="VERIFICA_INFORMATICA_GENNAIO_LUCIDERA_LUCA.Elimina"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:VERIFICA_INFORMATICA_GENNAIO_LUCIDERA_LUCA"
+        mc:Ignorable="d"
+        Title="Elimina" Height="450" Width="800">
+    <Grid>
+        <Label x:Name="label" Content="INSERIRE NELLA TEXT BOX IL CODICE DELLA BOTTIGLIA DA ELIMINARE" HorizontalAlignment="Left" Margin="32,50,0,0" VerticalAlignment="Top" Width="434" Height="35" RenderTransformOrigin="0.5,0.5">
+            <Label.RenderTransform>
+                <TransformGroup>
+                    <ScaleTransform/>
+                    <SkewTransform/>
+                    <RotateTransform Angle="0.237"/>
+                    <TranslateTransform/>
+                </TransformGroup>
+            </Label.RenderTransform>
+        </Label>
+        <TextBox x:Name="textBox" HorizontalAlignment="Left" Height="33" Margin="497,56,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="138"/>
+        <Label x:Name="label1" Content="POI PREMERE IL PULSATE: ELIMINA!" HorizontalAlignment="Left" Margin="38,88,0,0" VerticalAlignment="Top" Width="228"/>
+        <Button x:Name="btn_elimina" Content="ELIMINA!" HorizontalAlignment="Left" Margin="38,134,0,0" VerticalAlignment="Top" Width="241" Height="112" Click="btn_elimina_Click"/>
+        <Button x:Name="btn_tornaIndietro" Content="VAI ALLA MAIN WINDOW" HorizontalAlignment="Left" Margin="38,251,0,0" VerticalAlignment="Top" Width="241" Height="129" Click="btn_tornaIndietro_Click"/>
+
+    </Grid>
+</Window>

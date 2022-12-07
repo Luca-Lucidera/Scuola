@@ -1,0 +1,17 @@
+C:\Users\lucid\Desktop\Preverifica\Preverifica\bin\Debug\netcoreapp3.1\Preverifica.exe
+C:\Users\lucid\Desktop\Preverifica\Preverifica\bin\Debug\netcoreapp3.1\Preverifica.deps.json
+C:\Users\lucid\Desktop\Preverifica\Preverifica\bin\Debug\netcoreapp3.1\Preverifica.runtimeconfig.json
+C:\Users\lucid\Desktop\Preverifica\Preverifica\bin\Debug\netcoreapp3.1\Preverifica.runtimeconfig.dev.json
+C:\Users\lucid\Desktop\Preverifica\Preverifica\bin\Debug\netcoreapp3.1\Preverifica.dll
+C:\Users\lucid\Desktop\Preverifica\Preverifica\bin\Debug\netcoreapp3.1\Preverifica.pdb
+C:\Users\lucid\Desktop\Preverifica\Preverifica\obj\Debug\netcoreapp3.1\Preverifica.csprojAssemblyReference.cache
+C:\Users\lucid\Desktop\Preverifica\Preverifica\obj\Debug\netcoreapp3.1\MainWindow.g.cs
+C:\Users\lucid\Desktop\Preverifica\Preverifica\obj\Debug\netcoreapp3.1\App.g.cs
+C:\Users\lucid\Desktop\Preverifica\Preverifica\obj\Debug\netcoreapp3.1\Preverifica_MarkupCompile.cache
+C:\Users\lucid\Desktop\Preverifica\Preverifica\obj\Debug\netcoreapp3.1\Preverifica_MarkupCompile.lref
+C:\Users\lucid\Desktop\Preverifica\Preverifica\obj\Debug\netcoreapp3.1\MainWindow.baml
+C:\Users\lucid\Desktop\Preverifica\Preverifica\obj\Debug\netcoreapp3.1\Preverifica.g.resources
+C:\Users\lucid\Desktop\Preverifica\Preverifica\obj\Debug\netcoreapp3.1\Preverifica.AssemblyInfoInputs.cache
+C:\Users\lucid\Desktop\Preverifica\Preverifica\obj\Debug\netcoreapp3.1\Preverifica.AssemblyInfo.cs
+C:\Users\lucid\Desktop\Preverifica\Preverifica\obj\Debug\netcoreapp3.1\Preverifica.dll
+C:\Users\lucid\Desktop\Preverifica\Preverifica\obj\Debug\netcoreapp3.1\Preverifica.pdb

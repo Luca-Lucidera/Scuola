@@ -1,0 +1,4 @@
+Marca: LANCIA targa: 1234 anno: 1234
+Marca: FERRARI targa: 4321 anno: 123456
+Marca: LAMBO targa: 21345 anno: 123556
+Marca: FORD targa: AA 000 AA anno: 1999

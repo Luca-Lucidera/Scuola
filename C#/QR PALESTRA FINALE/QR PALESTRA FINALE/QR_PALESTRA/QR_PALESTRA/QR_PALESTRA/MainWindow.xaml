@@ -1,0 +1,19 @@
+﻿<Window x:Class="QR_PALESTRA.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:QR_PALESTRA"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="800">
+    <Grid>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition/>
+        </Grid.ColumnDefinitions>
+        <Button x:Name="btn_abbonati" Content="NUOVO ABBONATO" HorizontalAlignment="Left" Margin="67,117,0,0" VerticalAlignment="Top" Width="168" Height="86" Click="button_Click"/>
+        <Button x:Name="btn_salva_txt" Content="SALVA SU FILE DI TESTO" HorizontalAlignment="Left" Margin="240,117,0,0" VerticalAlignment="Top" Width="152" Height="86" Click="btn_salva_txt_Click"/>
+        <Button x:Name="btn_carica_txt" Content="CARICA DA FILE DI TESTO" HorizontalAlignment="Left" Margin="397,117,0,0" VerticalAlignment="Top" Width="152" Height="86" Click="btn_carica_txt_Click"/>
+        <Button x:Name="btn_visualizza" Content="VISUALIZZA ELEMENTI&#xD;&#xA;CARICATI O INSERITI" HorizontalAlignment="Left" Margin="554,117,0,0" VerticalAlignment="Top" Width="152" Height="86" Click="btn_visualizza_Click" />
+
+    </Grid>
+</Window>

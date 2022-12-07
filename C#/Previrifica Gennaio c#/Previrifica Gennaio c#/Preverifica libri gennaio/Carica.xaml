@@ -1,0 +1,14 @@
+﻿<Window x:Class="Preverifica_libri_gennaio.Carica"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Preverifica_libri_gennaio"
+        mc:Ignorable="d"
+        Title="Carica" Height="450" Width="800">
+    <Grid>
+        <Button x:Name="btn_carica" Content="PREMI PER CARICARE UNA LISTA" HorizontalAlignment="Left" VerticalAlignment="Top" Width="491" Margin="10,10,0,0" Height="186" Click="btn_carica_Click"/>
+        <Button x:Name="btn_indietro" Content="TORNA SCHERMATA INIZIALE" HorizontalAlignment="Left" Margin="10,295,0,0" VerticalAlignment="Top" Width="501" Height="114" Click="btn_indietro_Click"/>
+
+    </Grid>
+</Window>

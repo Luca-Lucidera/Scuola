@@ -1,0 +1,22 @@
+﻿<Window x:Class="Coda_e_pila_di_nomi.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Coda_e_pila_di_nomi"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="800">
+    <Grid>
+        <Button x:Name="btnMemorizza" Content="MEMORIZZA CODA" HorizontalAlignment="Left" Margin="10,51,0,0" VerticalAlignment="Top" Width="162" Height="45" Click="btnMemorizza_Click"/>
+        <Button x:Name="btnNumeroElementi" Content="NUMERO ELEMENTI CODA " HorizontalAlignment="Left" Margin="10,101,0,0" VerticalAlignment="Top" Width="162" Height="40" Click="btnNumeroElementi_Click"/>
+        <Button x:Name="btnElimina" Content="ELIMINA CODA" HorizontalAlignment="Left" Margin="10,146,0,0" VerticalAlignment="Top" Width="162" Height="50" Click="btnElimina_Click"/>
+        <TextBox x:Name="txtMemorizza" HorizontalAlignment="Left" Height="45" Margin="233,51,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="153"/>
+        <Label x:Name="lblNumeroElementi" Content="" HorizontalAlignment="Left" Margin="233,104,0,0" VerticalAlignment="Top" Width="153" Height="40"/>
+        <Button x:Name="btnVis" Content="VISUALIZZA TUTTO CODA" HorizontalAlignment="Left" Margin="10,201,0,0" VerticalAlignment="Top" Width="162" Height="53" Click="btnVis_Click"/>
+        <Label x:Name="lblVisTutto" Content="" HorizontalAlignment="Left" Margin="233,201,0,0" VerticalAlignment="Top" Width="153" Height="208"/>
+        <Button x:Name="btnMemPila" Content="MEMORIZZA PILA" HorizontalAlignment="Left" Margin="420,51,0,0" VerticalAlignment="Top" Width="127" Height="45" Click="btnMemPila_Click"/>
+        <Button x:Name="btnNElPila" Content="NUMERO ELEMENTI" HorizontalAlignment="Left" Margin="420,99,0,0" VerticalAlignment="Top" Width="127" Height="45" Click="btnNElPila_Click"/>
+        <Button x:Name="btnEliminaPila" Content="ELIMINA PILA ULTIMO" HorizontalAlignment="Left" Margin="420,151,0,0" VerticalAlignment="Top" Width="127" Height="45" Click="btnEliminaPila_Click"/>
+        <Button x:Name="btnVisTuttoPila" Content="VISULIZZA TUTTO PILA" HorizontalAlignment="Left" Margin="420,209,0,0" VerticalAlignment="Top" Width="127" Height="45" Click="btnVisTuttoPila_Click"/>
+    </Grid>
+</Window>

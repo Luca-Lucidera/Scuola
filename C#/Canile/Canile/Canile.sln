@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29905.134
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Canile", "Canile\Canile.csproj", "{049C7D3E-AC6C-485F-8AB2-B899F5227EFF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{049C7D3E-AC6C-485F-8AB2-B899F5227EFF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{049C7D3E-AC6C-485F-8AB2-B899F5227EFF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{049C7D3E-AC6C-485F-8AB2-B899F5227EFF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{049C7D3E-AC6C-485F-8AB2-B899F5227EFF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7633DA67-51EC-4EDB-BE56-519F8A099A0A}
+	EndGlobalSection
+EndGlobal

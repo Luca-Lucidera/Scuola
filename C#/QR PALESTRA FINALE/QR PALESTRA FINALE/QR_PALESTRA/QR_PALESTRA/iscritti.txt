@@ -1,0 +1,4 @@
+Luca;Lucidera;01/01/2021;31/12/2021;17;C:\Users\lucid\Desktop\QR PALESTRA FINALE\QR_PALESTRA\QR_PALESTRA\luca_lucidera.bmp;0,22
+Mario;Rossi;01/02/2021;01/01/2022;18;C:\Users\lucid\Desktop\QR PALESTRA FINALE\QR_PALESTRA\QR_PALESTRA\mario_rossi.bmp;2,32
+Giuseppe;Verdi;01/03/2021;01/04/2022;22;C:\Users\lucid\Desktop\QR PALESTRA FINALE\QR_PALESTRA\QR_PALESTRA\giuseppe_verdi.bmp;0,2
+juan;alberto;25/10/1999;25/10/3999;999;C:\Users\lucid\Desktop\QR PALESTRA FINALE\QR_PALESTRA\QR_PALESTRA\juan_alberto.bmp;3,31

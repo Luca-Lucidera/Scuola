@@ -1,0 +1,79 @@
+C:\Users\lucid\Desktop\STADIO C#\biglietti_stadio_gruppo_B\biglietti_stadio_gruppo_B\bin\Debug\biglietti_stadio_gruppo_B.exe.config
+C:\Users\lucid\Desktop\STADIO C#\biglietti_stadio_gruppo_B\biglietti_stadio_gruppo_B\bin\Debug\biglietti_stadio_gruppo_B.exe
+C:\Users\lucid\Desktop\STADIO C#\biglietti_stadio_gruppo_B\biglietti_stadio_gruppo_B\bin\Debug\biglietti_stadio_gruppo_B.pdb
+C:\Users\lucid\Desktop\STADIO C#\biglietti_stadio_gruppo_B\biglietti_stadio_gruppo_B\obj\Debug\biglietti_stadio_gruppo_B.csprojAssemblyReference.cache
+C:\Users\lucid\Desktop\STADIO C#\biglietti_stadio_gruppo_B\biglietti_stadio_gruppo_B\obj\Debug\MainWindow.g.cs
+C:\Users\lucid\Desktop\STADIO C#\biglietti_stadio_gruppo_B\biglietti_stadio_gruppo_B\obj\Debug\App.g.cs
+C:\Users\lucid\Desktop\STADIO C#\biglietti_stadio_gruppo_B\biglietti_stadio_gruppo_B\obj\Debug\biglietti_stadio_gruppo_B_MarkupCompile.cache
+C:\Users\lucid\Desktop\STADIO C#\biglietti_stadio_gruppo_B\biglietti_stadio_gruppo_B\obj\Debug\biglietti_stadio_gruppo_B_MarkupCompile.lref
+C:\Users\lucid\Desktop\STADIO C#\biglietti_stadio_gruppo_B\biglietti_stadio_gruppo_B\obj\Debug\MainWindow.baml
+C:\Users\lucid\Desktop\STADIO C#\biglietti_stadio_gruppo_B\biglietti_stadio_gruppo_B\obj\Debug\biglietti_stadio_gruppo_B.g.resources
+C:\Users\lucid\Desktop\STADIO C#\biglietti_stadio_gruppo_B\biglietti_stadio_gruppo_B\obj\Debug\biglietti_stadio_gruppo_B.Properties.Resources.resources
+C:\Users\lucid\Desktop\STADIO C#\biglietti_stadio_gruppo_B\biglietti_stadio_gruppo_B\obj\Debug\biglietti_stadio_gruppo_B.csproj.GenerateResource.cache
+C:\Users\lucid\Desktop\STADIO C#\biglietti_stadio_gruppo_B\biglietti_stadio_gruppo_B\obj\Debug\biglietti_stadio_gruppo_B.exe
+C:\Users\lucid\Desktop\STADIO C#\biglietti_stadio_gruppo_B\biglietti_stadio_gruppo_B\obj\Debug\biglietti_stadio_gruppo_B.pdb
+C:\Users\lucid\Desktop\STADIO C#\STADIO C#\biglietti_stadio_gruppo_B\biglietti_stadio_gruppo_B\bin\Debug\biglietti_stadio_gruppo_B.exe.config
+C:\Users\lucid\Desktop\STADIO C#\STADIO C#\biglietti_stadio_gruppo_B\biglietti_stadio_gruppo_B\bin\Debug\biglietti_stadio_gruppo_B.exe
+C:\Users\lucid\Desktop\STADIO C#\STADIO C#\biglietti_stadio_gruppo_B\biglietti_stadio_gruppo_B\bin\Debug\biglietti_stadio_gruppo_B.pdb
+C:\Users\lucid\Desktop\STADIO C#\STADIO C#\biglietti_stadio_gruppo_B\biglietti_stadio_gruppo_B\obj\Debug\biglietti_stadio_gruppo_B.csprojAssemblyReference.cache
+C:\Users\lucid\Desktop\STADIO C#\STADIO C#\biglietti_stadio_gruppo_B\biglietti_stadio_gruppo_B\obj\Debug\finsetra_nuovoBiglietto.g.cs
+C:\Users\lucid\Desktop\STADIO C#\STADIO C#\biglietti_stadio_gruppo_B\biglietti_stadio_gruppo_B\obj\Debug\MainWindow.g.cs
+C:\Users\lucid\Desktop\STADIO C#\STADIO C#\biglietti_stadio_gruppo_B\biglietti_stadio_gruppo_B\obj\Debug\App.g.cs
+C:\Users\lucid\Desktop\STADIO C#\STADIO C#\biglietti_stadio_gruppo_B\biglietti_stadio_gruppo_B\obj\Debug\biglietti_stadio_gruppo_B_MarkupCompile.cache
+C:\Users\lucid\Desktop\STADIO C#\STADIO C#\biglietti_stadio_gruppo_B\biglietti_stadio_gruppo_B\obj\Debug\biglietti_stadio_gruppo_B_MarkupCompile.lref
+C:\Users\lucid\Desktop\STADIO C#\STADIO C#\biglietti_stadio_gruppo_B\biglietti_stadio_gruppo_B\obj\Debug\MainWindow.baml
+C:\Users\lucid\Desktop\STADIO C#\STADIO C#\biglietti_stadio_gruppo_B\biglietti_stadio_gruppo_B\obj\Debug\finsetra_nuovoBiglietto.baml
+C:\Users\lucid\Desktop\STADIO C#\STADIO C#\biglietti_stadio_gruppo_B\biglietti_stadio_gruppo_B\obj\Debug\biglietti_stadio_gruppo_B.g.resources
+C:\Users\lucid\Desktop\STADIO C#\STADIO C#\biglietti_stadio_gruppo_B\biglietti_stadio_gruppo_B\obj\Debug\biglietti_stadio_gruppo_B.Properties.Resources.resources
+C:\Users\lucid\Desktop\STADIO C#\STADIO C#\biglietti_stadio_gruppo_B\biglietti_stadio_gruppo_B\obj\Debug\biglietti_stadio_gruppo_B.csproj.GenerateResource.cache
+C:\Users\lucid\Desktop\STADIO C#\STADIO C#\biglietti_stadio_gruppo_B\biglietti_stadio_gruppo_B\obj\Debug\biglietti_stadio_gruppo_B.exe
+C:\Users\lucid\Desktop\STADIO C#\STADIO C#\biglietti_stadio_gruppo_B\biglietti_stadio_gruppo_B\obj\Debug\biglietti_stadio_gruppo_B.pdb
+C:\Users\lucid\Desktop\STADIO C#\STADIO C#\biglietti_stadio_gruppo_B\biglietti_stadio_gruppo_B\obj\Debug\finestra_cerca.g.cs
+C:\Users\lucid\Desktop\STADIO C#\STADIO C#\biglietti_stadio_gruppo_B\biglietti_stadio_gruppo_B\obj\Debug\finestra_modifica.g.cs
+C:\Users\lucid\Desktop\STADIO C#\STADIO C#\biglietti_stadio_gruppo_B\biglietti_stadio_gruppo_B\obj\Debug\finestra_visualizza.g.cs
+C:\Users\lucid\Desktop\STADIO C#\STADIO C#\biglietti_stadio_gruppo_B\biglietti_stadio_gruppo_B\obj\Debug\finestra_cerca.baml
+C:\Users\lucid\Desktop\STADIO C#\STADIO C#\biglietti_stadio_gruppo_B\biglietti_stadio_gruppo_B\obj\Debug\finestra_modifica.baml
+C:\Users\lucid\Desktop\STADIO C#\STADIO C#\biglietti_stadio_gruppo_B\biglietti_stadio_gruppo_B\obj\Debug\finestra_visualizza.baml
+C:\Users\lucid\Desktop\STADIO C#\STADIO C#\biglietti_stadio_gruppo_B\biglietti_stadio_gruppo_B\bin\Debug\QRCoder.dll
+C:\Users\lucid\Desktop\STADIO C#\STADIO C#\biglietti_stadio_gruppo_B\biglietti_stadio_gruppo_B\obj\Debug\biglietti_stadio_gruppo_B.csproj.CopyComplete
+C:\Users\lucid\Desktop\STADIO C#\STADIO C#\STADIO C#\biglietti_stadio_gruppo_B\biglietti_stadio_gruppo_B\obj\Debug\biglietti_stadio_gruppo_B.csprojAssemblyReference.cache
+C:\Users\lucid\Desktop\STADIO C#\STADIO C#\STADIO C#\biglietti_stadio_gruppo_B\biglietti_stadio_gruppo_B\obj\Debug\finestra_cerca.g.cs
+C:\Users\lucid\Desktop\STADIO C#\STADIO C#\STADIO C#\biglietti_stadio_gruppo_B\biglietti_stadio_gruppo_B\obj\Debug\finestra_modifica.g.cs
+C:\Users\lucid\Desktop\STADIO C#\STADIO C#\STADIO C#\biglietti_stadio_gruppo_B\biglietti_stadio_gruppo_B\obj\Debug\finestra_visualizza.g.cs
+C:\Users\lucid\Desktop\STADIO C#\STADIO C#\STADIO C#\biglietti_stadio_gruppo_B\biglietti_stadio_gruppo_B\obj\Debug\finsetra_nuovoBiglietto.g.cs
+C:\Users\lucid\Desktop\STADIO C#\STADIO C#\STADIO C#\biglietti_stadio_gruppo_B\biglietti_stadio_gruppo_B\obj\Debug\MainWindow.g.cs
+C:\Users\lucid\Desktop\STADIO C#\STADIO C#\STADIO C#\biglietti_stadio_gruppo_B\biglietti_stadio_gruppo_B\obj\Debug\App.g.cs
+C:\Users\lucid\Desktop\STADIO C#\STADIO C#\STADIO C#\biglietti_stadio_gruppo_B\biglietti_stadio_gruppo_B\obj\Debug\biglietti_stadio_gruppo_B_MarkupCompile.cache
+C:\Users\lucid\Desktop\STADIO C#\STADIO C#\STADIO C#\biglietti_stadio_gruppo_B\biglietti_stadio_gruppo_B\obj\Debug\biglietti_stadio_gruppo_B_MarkupCompile.lref
+C:\Users\lucid\Desktop\STADIO C#\STADIO C#\STADIO C#\biglietti_stadio_gruppo_B\biglietti_stadio_gruppo_B\obj\Debug\biglietti_stadio_gruppo_B.exe
+C:\Users\lucid\Desktop\STADIO C#\STADIO C#\STADIO C#\biglietti_stadio_gruppo_B\biglietti_stadio_gruppo_B\obj\Debug\biglietti_stadio_gruppo_B.pdb
+C:\Users\lucid\Desktop\STADIO C#\STADIO C#\STADIO C#\biglietti_stadio_gruppo_B\biglietti_stadio_gruppo_B\bin\Debug\biglietti_stadio_gruppo_B.exe.config
+C:\Users\lucid\Desktop\STADIO C#\STADIO C#\STADIO C#\biglietti_stadio_gruppo_B\biglietti_stadio_gruppo_B\bin\Debug\biglietti_stadio_gruppo_B.exe
+C:\Users\lucid\Desktop\STADIO C#\STADIO C#\STADIO C#\biglietti_stadio_gruppo_B\biglietti_stadio_gruppo_B\bin\Debug\biglietti_stadio_gruppo_B.pdb
+C:\Users\lucid\Desktop\STADIO C#\STADIO C#\STADIO C#\biglietti_stadio_gruppo_B\biglietti_stadio_gruppo_B\bin\Debug\QRCoder.dll
+C:\Users\lucid\Desktop\STADIO C#\STADIO C#\STADIO C#\biglietti_stadio_gruppo_B\biglietti_stadio_gruppo_B\obj\Debug\finestra_cerca.baml
+C:\Users\lucid\Desktop\STADIO C#\STADIO C#\STADIO C#\biglietti_stadio_gruppo_B\biglietti_stadio_gruppo_B\obj\Debug\finestra_modifica.baml
+C:\Users\lucid\Desktop\STADIO C#\STADIO C#\STADIO C#\biglietti_stadio_gruppo_B\biglietti_stadio_gruppo_B\obj\Debug\finestra_visualizza.baml
+C:\Users\lucid\Desktop\STADIO C#\STADIO C#\STADIO C#\biglietti_stadio_gruppo_B\biglietti_stadio_gruppo_B\obj\Debug\finsetra_nuovoBiglietto.baml
+C:\Users\lucid\Desktop\STADIO C#\STADIO C#\STADIO C#\biglietti_stadio_gruppo_B\biglietti_stadio_gruppo_B\obj\Debug\MainWindow.baml
+C:\Users\lucid\Desktop\STADIO C#\STADIO C#\STADIO C#\biglietti_stadio_gruppo_B\biglietti_stadio_gruppo_B\obj\Debug\biglietti_stadio_gruppo_B.g.resources
+C:\Users\lucid\Desktop\STADIO C#\STADIO C#\STADIO C#\biglietti_stadio_gruppo_B\biglietti_stadio_gruppo_B\obj\Debug\biglietti_stadio_gruppo_B.Properties.Resources.resources
+C:\Users\lucid\Desktop\STADIO C#\STADIO C#\STADIO C#\biglietti_stadio_gruppo_B\biglietti_stadio_gruppo_B\obj\Debug\biglietti_stadio_gruppo_B.csproj.GenerateResource.cache
+C:\Users\lucid\Desktop\STADIO C#\STADIO C#\STADIO C#\biglietti_stadio_gruppo_B\biglietti_stadio_gruppo_B\obj\Debug\biglietti_stadio_gruppo_B.csproj.CopyComplete
+C:\Users\lucid\Desktop\STADIO C#\STADIO C#\STADIO C#\biglietti_stadio_gruppo_B\biglietti_stadio_gruppo_B\obj\Debug\finestra_eventi.g.cs
+C:\Users\lucid\Desktop\STADIO C#\STADIO C#\STADIO C#\biglietti_stadio_gruppo_B\biglietti_stadio_gruppo_B\obj\Debug\finestra_eventi.baml
+C:\Users\lucid\Desktop\STADIO C#\biglietti_stadio_gruppo_B\biglietti_stadio_gruppo_B\obj\Debug\finestra_cerca.g.cs
+C:\Users\lucid\Desktop\STADIO C#\biglietti_stadio_gruppo_B\biglietti_stadio_gruppo_B\obj\Debug\finestra_eventi.g.cs
+C:\Users\lucid\Desktop\STADIO C#\biglietti_stadio_gruppo_B\biglietti_stadio_gruppo_B\obj\Debug\finestra_modifica.g.cs
+C:\Users\lucid\Desktop\STADIO C#\biglietti_stadio_gruppo_B\biglietti_stadio_gruppo_B\obj\Debug\finestra_visualizza.g.cs
+C:\Users\lucid\Desktop\STADIO C#\biglietti_stadio_gruppo_B\biglietti_stadio_gruppo_B\obj\Debug\finsetra_nuovoBiglietto.g.cs
+C:\Users\lucid\Desktop\STADIO C#\biglietti_stadio_gruppo_B\biglietti_stadio_gruppo_B\bin\Debug\QRCoder.dll
+C:\Users\lucid\Desktop\STADIO C#\biglietti_stadio_gruppo_B\biglietti_stadio_gruppo_B\obj\Debug\finestra_cerca.baml
+C:\Users\lucid\Desktop\STADIO C#\biglietti_stadio_gruppo_B\biglietti_stadio_gruppo_B\obj\Debug\finestra_eventi.baml
+C:\Users\lucid\Desktop\STADIO C#\biglietti_stadio_gruppo_B\biglietti_stadio_gruppo_B\obj\Debug\finestra_modifica.baml
+C:\Users\lucid\Desktop\STADIO C#\biglietti_stadio_gruppo_B\biglietti_stadio_gruppo_B\obj\Debug\finestra_visualizza.baml
+C:\Users\lucid\Desktop\STADIO C#\biglietti_stadio_gruppo_B\biglietti_stadio_gruppo_B\obj\Debug\finsetra_nuovoBiglietto.baml
+C:\Users\lucid\Desktop\STADIO C#\biglietti_stadio_gruppo_B\biglietti_stadio_gruppo_B\obj\Debug\biglietti_stadio_gruppo_B.csproj.CopyComplete
+C:\Users\lucid\Desktop\STADIO C#\biglietti_stadio_gruppo_B\biglietti_stadio_gruppo_B\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\lucid\Desktop\STADIO C#\biglietti_stadio_gruppo_B\biglietti_stadio_gruppo_B\bin\Debug\itextsharp.dll
+C:\Users\lucid\Desktop\STADIO C#\biglietti_stadio_gruppo_B\biglietti_stadio_gruppo_B\bin\Debug\itextsharp.xml

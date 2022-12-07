@@ -1,0 +1,98 @@
+C:\Users\lucid\Desktop\QR_PALESTRA\QR_PALESTRA\bin\Debug\QR_PALESTRA.exe.config
+C:\Users\lucid\Desktop\QR_PALESTRA\QR_PALESTRA\bin\Debug\QR_PALESTRA.exe
+C:\Users\lucid\Desktop\QR_PALESTRA\QR_PALESTRA\bin\Debug\QR_PALESTRA.pdb
+C:\Users\lucid\Desktop\QR_PALESTRA\QR_PALESTRA\obj\Debug\QR_PALESTRA.csprojAssemblyReference.cache
+C:\Users\lucid\Desktop\QR_PALESTRA\QR_PALESTRA\obj\Debug\finestra_abbonati.g.cs
+C:\Users\lucid\Desktop\QR_PALESTRA\QR_PALESTRA\obj\Debug\MainWindow.g.cs
+C:\Users\lucid\Desktop\QR_PALESTRA\QR_PALESTRA\obj\Debug\App.g.cs
+C:\Users\lucid\Desktop\QR_PALESTRA\QR_PALESTRA\obj\Debug\QR_PALESTRA_MarkupCompile.cache
+C:\Users\lucid\Desktop\QR_PALESTRA\QR_PALESTRA\obj\Debug\QR_PALESTRA_MarkupCompile.lref
+C:\Users\lucid\Desktop\QR_PALESTRA\QR_PALESTRA\obj\Debug\finestra_abbonati.baml
+C:\Users\lucid\Desktop\QR_PALESTRA\QR_PALESTRA\obj\Debug\MainWindow.baml
+C:\Users\lucid\Desktop\QR_PALESTRA\QR_PALESTRA\obj\Debug\QR_PALESTRA.g.resources
+C:\Users\lucid\Desktop\QR_PALESTRA\QR_PALESTRA\obj\Debug\QR_PALESTRA.Properties.Resources.resources
+C:\Users\lucid\Desktop\QR_PALESTRA\QR_PALESTRA\obj\Debug\QR_PALESTRA.csproj.GenerateResource.cache
+C:\Users\lucid\Desktop\QR_PALESTRA\QR_PALESTRA\obj\Debug\QR_PALESTRA.exe
+C:\Users\lucid\Desktop\QR_PALESTRA\QR_PALESTRA\obj\Debug\QR_PALESTRA.pdb
+C:\Users\lucid\Desktop\QR_PALESTRA\QR_PALESTRA\bin\Debug\QRCoder.dll
+C:\Users\lucid\Desktop\QR_PALESTRA\QR_PALESTRA\obj\Debug\QR_PALESTRA.csproj.CopyComplete
+C:\Users\lucid\Desktop\QR_PALESTRA\QR_PALESTRA\obj\Debug\finesta_visualizza.g.cs
+C:\Users\lucid\Desktop\QR_PALESTRA\QR_PALESTRA\obj\Debug\finesta_visualizza.baml
+C:\Users\lucid\Desktop\QR_PALESTRA\QR_PALESTRA\QR_PALESTRA\bin\Debug\QR_PALESTRA.exe.config
+C:\Users\lucid\Desktop\QR_PALESTRA\QR_PALESTRA\QR_PALESTRA\bin\Debug\QR_PALESTRA.exe
+C:\Users\lucid\Desktop\QR_PALESTRA\QR_PALESTRA\QR_PALESTRA\bin\Debug\QR_PALESTRA.pdb
+C:\Users\lucid\Desktop\QR_PALESTRA\QR_PALESTRA\QR_PALESTRA\bin\Debug\AForge.dll
+C:\Users\lucid\Desktop\QR_PALESTRA\QR_PALESTRA\QR_PALESTRA\bin\Debug\AForge.Imaging.dll
+C:\Users\lucid\Desktop\QR_PALESTRA\QR_PALESTRA\QR_PALESTRA\bin\Debug\AForge.Math.dll
+C:\Users\lucid\Desktop\QR_PALESTRA\QR_PALESTRA\QR_PALESTRA\bin\Debug\AForge.Video.DirectShow.dll
+C:\Users\lucid\Desktop\QR_PALESTRA\QR_PALESTRA\QR_PALESTRA\bin\Debug\AForge.Video.dll
+C:\Users\lucid\Desktop\QR_PALESTRA\QR_PALESTRA\QR_PALESTRA\bin\Debug\QRCoder.dll
+C:\Users\lucid\Desktop\QR_PALESTRA\QR_PALESTRA\QR_PALESTRA\bin\Debug\QrWebCam.dll
+C:\Users\lucid\Desktop\QR_PALESTRA\QR_PALESTRA\QR_PALESTRA\bin\Debug\zxing.dll
+C:\Users\lucid\Desktop\QR_PALESTRA\QR_PALESTRA\QR_PALESTRA\bin\Debug\zxing.presentation.dll
+C:\Users\lucid\Desktop\QR_PALESTRA\QR_PALESTRA\QR_PALESTRA\bin\Debug\AForge.xml
+C:\Users\lucid\Desktop\QR_PALESTRA\QR_PALESTRA\QR_PALESTRA\bin\Debug\AForge.Imaging.xml
+C:\Users\lucid\Desktop\QR_PALESTRA\QR_PALESTRA\QR_PALESTRA\bin\Debug\AForge.Math.xml
+C:\Users\lucid\Desktop\QR_PALESTRA\QR_PALESTRA\QR_PALESTRA\bin\Debug\AForge.Video.xml
+C:\Users\lucid\Desktop\QR_PALESTRA\QR_PALESTRA\QR_PALESTRA\bin\Debug\AForge.Video.DirectShow.xml
+C:\Users\lucid\Desktop\QR_PALESTRA\QR_PALESTRA\QR_PALESTRA\bin\Debug\zxing.pdb
+C:\Users\lucid\Desktop\QR_PALESTRA\QR_PALESTRA\QR_PALESTRA\bin\Debug\zxing.xml
+C:\Users\lucid\Desktop\QR_PALESTRA\QR_PALESTRA\QR_PALESTRA\bin\Debug\zxing.presentation.pdb
+C:\Users\lucid\Desktop\QR_PALESTRA\QR_PALESTRA\QR_PALESTRA\bin\Debug\zxing.presentation.xml
+C:\Users\lucid\Desktop\QR_PALESTRA\QR_PALESTRA\QR_PALESTRA\obj\Debug\QR_PALESTRA.csprojAssemblyReference.cache
+C:\Users\lucid\Desktop\QR_PALESTRA\QR_PALESTRA\QR_PALESTRA\obj\Debug\finesta_visualizza.g.cs
+C:\Users\lucid\Desktop\QR_PALESTRA\QR_PALESTRA\QR_PALESTRA\obj\Debug\finestra_abbonati.g.cs
+C:\Users\lucid\Desktop\QR_PALESTRA\QR_PALESTRA\QR_PALESTRA\obj\Debug\finestra_accedi.g.cs
+C:\Users\lucid\Desktop\QR_PALESTRA\QR_PALESTRA\QR_PALESTRA\obj\Debug\MainWindow.g.cs
+C:\Users\lucid\Desktop\QR_PALESTRA\QR_PALESTRA\QR_PALESTRA\obj\Debug\App.g.cs
+C:\Users\lucid\Desktop\QR_PALESTRA\QR_PALESTRA\QR_PALESTRA\obj\Debug\QR_PALESTRA_MarkupCompile.cache
+C:\Users\lucid\Desktop\QR_PALESTRA\QR_PALESTRA\QR_PALESTRA\obj\Debug\QR_PALESTRA_MarkupCompile.lref
+C:\Users\lucid\Desktop\QR_PALESTRA\QR_PALESTRA\QR_PALESTRA\obj\Debug\finesta_visualizza.baml
+C:\Users\lucid\Desktop\QR_PALESTRA\QR_PALESTRA\QR_PALESTRA\obj\Debug\finestra_abbonati.baml
+C:\Users\lucid\Desktop\QR_PALESTRA\QR_PALESTRA\QR_PALESTRA\obj\Debug\finestra_accedi.baml
+C:\Users\lucid\Desktop\QR_PALESTRA\QR_PALESTRA\QR_PALESTRA\obj\Debug\MainWindow.baml
+C:\Users\lucid\Desktop\QR_PALESTRA\QR_PALESTRA\QR_PALESTRA\obj\Debug\QR_PALESTRA.g.resources
+C:\Users\lucid\Desktop\QR_PALESTRA\QR_PALESTRA\QR_PALESTRA\obj\Debug\QR_PALESTRA.Properties.Resources.resources
+C:\Users\lucid\Desktop\QR_PALESTRA\QR_PALESTRA\QR_PALESTRA\obj\Debug\QR_PALESTRA.csproj.GenerateResource.cache
+C:\Users\lucid\Desktop\QR_PALESTRA\QR_PALESTRA\QR_PALESTRA\obj\Debug\QR_PALESTRA.csproj.CopyComplete
+C:\Users\lucid\Desktop\QR_PALESTRA\QR_PALESTRA\QR_PALESTRA\obj\Debug\QR_PALESTRA.exe
+C:\Users\lucid\Desktop\QR_PALESTRA\QR_PALESTRA\QR_PALESTRA\obj\Debug\QR_PALESTRA.pdb
+C:\Users\lucid\Desktop\QR PALESTRA FINALE\QR_PALESTRA\QR_PALESTRA\QR_PALESTRA\obj\Debug\QR_PALESTRA.csprojAssemblyReference.cache
+C:\Users\lucid\Desktop\QR PALESTRA FINALE\QR_PALESTRA\QR_PALESTRA\QR_PALESTRA\obj\Debug\finesta_visualizza.g.cs
+C:\Users\lucid\Desktop\QR PALESTRA FINALE\QR_PALESTRA\QR_PALESTRA\QR_PALESTRA\obj\Debug\finestra_abbonati.g.cs
+C:\Users\lucid\Desktop\QR PALESTRA FINALE\QR_PALESTRA\QR_PALESTRA\QR_PALESTRA\obj\Debug\finestra_scheda.g.cs
+C:\Users\lucid\Desktop\QR PALESTRA FINALE\QR_PALESTRA\QR_PALESTRA\QR_PALESTRA\obj\Debug\MainWindow.g.cs
+C:\Users\lucid\Desktop\QR PALESTRA FINALE\QR_PALESTRA\QR_PALESTRA\QR_PALESTRA\obj\Debug\App.g.cs
+C:\Users\lucid\Desktop\QR PALESTRA FINALE\QR_PALESTRA\QR_PALESTRA\QR_PALESTRA\obj\Debug\QR_PALESTRA_MarkupCompile.cache
+C:\Users\lucid\Desktop\QR PALESTRA FINALE\QR_PALESTRA\QR_PALESTRA\QR_PALESTRA\obj\Debug\QR_PALESTRA_MarkupCompile.lref
+C:\Users\lucid\Desktop\QR PALESTRA FINALE\QR_PALESTRA\QR_PALESTRA\QR_PALESTRA\obj\Debug\QR_PALESTRA.exe
+C:\Users\lucid\Desktop\QR PALESTRA FINALE\QR_PALESTRA\QR_PALESTRA\QR_PALESTRA\obj\Debug\QR_PALESTRA.pdb
+C:\Users\lucid\Desktop\QR PALESTRA FINALE\QR_PALESTRA\QR_PALESTRA\QR_PALESTRA\bin\Debug\QR_PALESTRA.exe.config
+C:\Users\lucid\Desktop\QR PALESTRA FINALE\QR_PALESTRA\QR_PALESTRA\QR_PALESTRA\bin\Debug\QR_PALESTRA.exe
+C:\Users\lucid\Desktop\QR PALESTRA FINALE\QR_PALESTRA\QR_PALESTRA\QR_PALESTRA\bin\Debug\QR_PALESTRA.pdb
+C:\Users\lucid\Desktop\QR PALESTRA FINALE\QR_PALESTRA\QR_PALESTRA\QR_PALESTRA\bin\Debug\AForge.dll
+C:\Users\lucid\Desktop\QR PALESTRA FINALE\QR_PALESTRA\QR_PALESTRA\QR_PALESTRA\bin\Debug\AForge.Imaging.dll
+C:\Users\lucid\Desktop\QR PALESTRA FINALE\QR_PALESTRA\QR_PALESTRA\QR_PALESTRA\bin\Debug\AForge.Math.dll
+C:\Users\lucid\Desktop\QR PALESTRA FINALE\QR_PALESTRA\QR_PALESTRA\QR_PALESTRA\bin\Debug\AForge.Video.DirectShow.dll
+C:\Users\lucid\Desktop\QR PALESTRA FINALE\QR_PALESTRA\QR_PALESTRA\QR_PALESTRA\bin\Debug\AForge.Video.dll
+C:\Users\lucid\Desktop\QR PALESTRA FINALE\QR_PALESTRA\QR_PALESTRA\QR_PALESTRA\bin\Debug\QRCoder.dll
+C:\Users\lucid\Desktop\QR PALESTRA FINALE\QR_PALESTRA\QR_PALESTRA\QR_PALESTRA\bin\Debug\QrWebCam.dll
+C:\Users\lucid\Desktop\QR PALESTRA FINALE\QR_PALESTRA\QR_PALESTRA\QR_PALESTRA\bin\Debug\zxing.dll
+C:\Users\lucid\Desktop\QR PALESTRA FINALE\QR_PALESTRA\QR_PALESTRA\QR_PALESTRA\bin\Debug\zxing.presentation.dll
+C:\Users\lucid\Desktop\QR PALESTRA FINALE\QR_PALESTRA\QR_PALESTRA\QR_PALESTRA\bin\Debug\AForge.xml
+C:\Users\lucid\Desktop\QR PALESTRA FINALE\QR_PALESTRA\QR_PALESTRA\QR_PALESTRA\bin\Debug\AForge.Imaging.xml
+C:\Users\lucid\Desktop\QR PALESTRA FINALE\QR_PALESTRA\QR_PALESTRA\QR_PALESTRA\bin\Debug\AForge.Math.xml
+C:\Users\lucid\Desktop\QR PALESTRA FINALE\QR_PALESTRA\QR_PALESTRA\QR_PALESTRA\bin\Debug\AForge.Video.xml
+C:\Users\lucid\Desktop\QR PALESTRA FINALE\QR_PALESTRA\QR_PALESTRA\QR_PALESTRA\bin\Debug\AForge.Video.DirectShow.xml
+C:\Users\lucid\Desktop\QR PALESTRA FINALE\QR_PALESTRA\QR_PALESTRA\QR_PALESTRA\bin\Debug\zxing.pdb
+C:\Users\lucid\Desktop\QR PALESTRA FINALE\QR_PALESTRA\QR_PALESTRA\QR_PALESTRA\bin\Debug\zxing.xml
+C:\Users\lucid\Desktop\QR PALESTRA FINALE\QR_PALESTRA\QR_PALESTRA\QR_PALESTRA\bin\Debug\zxing.presentation.pdb
+C:\Users\lucid\Desktop\QR PALESTRA FINALE\QR_PALESTRA\QR_PALESTRA\QR_PALESTRA\bin\Debug\zxing.presentation.xml
+C:\Users\lucid\Desktop\QR PALESTRA FINALE\QR_PALESTRA\QR_PALESTRA\QR_PALESTRA\obj\Debug\finesta_visualizza.baml
+C:\Users\lucid\Desktop\QR PALESTRA FINALE\QR_PALESTRA\QR_PALESTRA\QR_PALESTRA\obj\Debug\finestra_abbonati.baml
+C:\Users\lucid\Desktop\QR PALESTRA FINALE\QR_PALESTRA\QR_PALESTRA\QR_PALESTRA\obj\Debug\finestra_scheda.baml
+C:\Users\lucid\Desktop\QR PALESTRA FINALE\QR_PALESTRA\QR_PALESTRA\QR_PALESTRA\obj\Debug\MainWindow.baml
+C:\Users\lucid\Desktop\QR PALESTRA FINALE\QR_PALESTRA\QR_PALESTRA\QR_PALESTRA\obj\Debug\QR_PALESTRA.g.resources
+C:\Users\lucid\Desktop\QR PALESTRA FINALE\QR_PALESTRA\QR_PALESTRA\QR_PALESTRA\obj\Debug\QR_PALESTRA.Properties.Resources.resources
+C:\Users\lucid\Desktop\QR PALESTRA FINALE\QR_PALESTRA\QR_PALESTRA\QR_PALESTRA\obj\Debug\QR_PALESTRA.csproj.GenerateResource.cache
+C:\Users\lucid\Desktop\QR PALESTRA FINALE\QR_PALESTRA\QR_PALESTRA\QR_PALESTRA\obj\Debug\QR_PALESTRA.csproj.CopyComplete

@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29905.134
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Preverifica libri gennaio", "Preverifica libri gennaio\Preverifica libri gennaio.csproj", "{8CC9EA86-E05D-437A-982B-CA0DB476E988}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8CC9EA86-E05D-437A-982B-CA0DB476E988}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8CC9EA86-E05D-437A-982B-CA0DB476E988}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8CC9EA86-E05D-437A-982B-CA0DB476E988}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8CC9EA86-E05D-437A-982B-CA0DB476E988}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0FD61442-15AD-4E51-870F-2F4E1A6780A4}
+	EndGlobalSection
+EndGlobal

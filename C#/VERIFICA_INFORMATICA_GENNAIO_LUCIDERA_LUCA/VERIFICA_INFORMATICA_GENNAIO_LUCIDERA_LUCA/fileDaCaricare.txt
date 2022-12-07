@@ -1,0 +1,4 @@
+aaa;aaa;ROSSO;C:\Users\lucid\Desktop\VERIFICA_INFORMATICA_GENNAIO_LUCIDERA_LUCA\IMMAGINI CONSEGNA\Screenshot_ks_porsche_911_rsr_2017_ks_silverstone_14-9-120-22-7-8.jpg;123
+bbb;bbb;Bianco Fermo;C:\Users\lucid\Desktop\VERIFICA_INFORMATICA_GENNAIO_LUCIDERA_LUCA\IMMAGINI CONSEGNA\Screenshot_ks_porsche_911_rsr_2017_ks_silverstone_14-9-120-22-7-8.jpg;444
+ccc;ccc;Bianco FRIZZANTE;C:\Users\lucid\Desktop\VERIFICA_INFORMATICA_GENNAIO_LUCIDERA_LUCA\IMMAGINI CONSEGNA\Screenshot_pagani_zonda_r_ks_laguna_seca_20-9-120-19-35-31.jpg;888
+FFF;FFF;Bianco FRIZZANTE;C:\Users\lucid\Desktop\VERIFICA_INFORMATICA_GENNAIO_LUCIDERA_LUCA\IMMAGINI CONSEGNA\Screenshot_ks_porsche_919_hybrid_2016_daytona_2017_14-9-120-22-21-46.jpg;8888

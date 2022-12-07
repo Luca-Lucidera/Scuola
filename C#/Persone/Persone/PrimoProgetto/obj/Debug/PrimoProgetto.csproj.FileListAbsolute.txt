@@ -1,0 +1,14 @@
+C:\Users\lucid\Desktop\PrimoProgetto\PrimoProgetto\bin\Debug\PrimoProgetto.exe.config
+C:\Users\lucid\Desktop\PrimoProgetto\PrimoProgetto\bin\Debug\PrimoProgetto.exe
+C:\Users\lucid\Desktop\PrimoProgetto\PrimoProgetto\bin\Debug\PrimoProgetto.pdb
+C:\Users\lucid\Desktop\PrimoProgetto\PrimoProgetto\obj\Debug\PrimoProgetto.csprojAssemblyReference.cache
+C:\Users\lucid\Desktop\PrimoProgetto\PrimoProgetto\obj\Debug\MainWindow.g.cs
+C:\Users\lucid\Desktop\PrimoProgetto\PrimoProgetto\obj\Debug\App.g.cs
+C:\Users\lucid\Desktop\PrimoProgetto\PrimoProgetto\obj\Debug\PrimoProgetto_MarkupCompile.cache
+C:\Users\lucid\Desktop\PrimoProgetto\PrimoProgetto\obj\Debug\PrimoProgetto_MarkupCompile.lref
+C:\Users\lucid\Desktop\PrimoProgetto\PrimoProgetto\obj\Debug\MainWindow.baml
+C:\Users\lucid\Desktop\PrimoProgetto\PrimoProgetto\obj\Debug\PrimoProgetto.g.resources
+C:\Users\lucid\Desktop\PrimoProgetto\PrimoProgetto\obj\Debug\PrimoProgetto.Properties.Resources.resources
+C:\Users\lucid\Desktop\PrimoProgetto\PrimoProgetto\obj\Debug\PrimoProgetto.csproj.GenerateResource.cache
+C:\Users\lucid\Desktop\PrimoProgetto\PrimoProgetto\obj\Debug\PrimoProgetto.exe
+C:\Users\lucid\Desktop\PrimoProgetto\PrimoProgetto\obj\Debug\PrimoProgetto.pdb

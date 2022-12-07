@@ -1,0 +1,1 @@
+nome2;cognome2;email2@gmail;1234;3;1;103;Partita;1° CERCHIO;C:\Users\lucid\Desktop\STADIO C#\biglietti_stadio_gruppo_B\bigliettotmp.btmp

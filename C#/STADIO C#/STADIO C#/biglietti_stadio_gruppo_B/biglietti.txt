@@ -1,0 +1,6 @@
+Mario;Rossi;mr@gmail.com;111;1;1;65;torino - milan;1° CERCHIO;C:\Users\lucid\Desktop\STADIO C#\STADIO C#\STADIO C#\biglietti_stadio_gruppo_B\mario_rossi.bmp
+Luigi;Verdi;lv@gmail.com;222;11;2;30;torino - milan;3° CERCHIO;C:\Users\lucid\Desktop\STADIO C#\STADIO C#\STADIO C#\biglietti_stadio_gruppo_B\luigi_verdi.bmp
+Alberto;Grassi;ag@gmail.com;333;30;1;90;torino - juve;2° CERCHIO;C:\Users\lucid\Desktop\STADIO C#\STADIO C#\STADIO C#\biglietti_stadio_gruppo_B\alberto_grassi.bmp
+Marco;Soggiu;ms@gmail.com;444;20;2;60;torino - juve;3° CERCHIO;C:\Users\lucid\Desktop\STADIO C#\STADIO C#\STADIO C#\biglietti_stadio_gruppo_B\marco_soggiu.bmp
+Simone;Conti;sc@gmail.com;555;11;1;140;tributo artista;ERBA;C:\Users\lucid\Desktop\STADIO C#\STADIO C#\STADIO C#\biglietti_stadio_gruppo_B\simone_conti.bmp
+Luca;Lucidera;ll@gmail.com;777;11;2;140;tributo artista;ERBA;C:\Users\lucid\Desktop\STADIO C#\STADIO C#\STADIO C#\biglietti_stadio_gruppo_B\luca_lucidera.bmp

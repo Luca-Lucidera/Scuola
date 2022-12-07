@@ -1,0 +1,24 @@
+﻿<Window x:Class="lingua_italiana.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:lingua_italiana"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="800">
+    <Grid>
+        <Button x:Name="btn_carica" Content="CARICA LA LISTA" HorizontalAlignment="Left" Margin="10,23,0,0" VerticalAlignment="Top" Width="212" Height="68" Click="btn_carica_Click"/>
+        <ListView x:Name="lst" HorizontalAlignment="Left" Height="100" VerticalAlignment="Top" Width="227" Margin="262,23,0,0">
+            <ListView.View>
+                <GridView>
+                    <GridViewColumn/>
+                </GridView>
+            </ListView.View>
+        </ListView>
+        <Button x:Name="btn_cerca_parola" Content="DOPO AVER INSERITO UNA PAROLA, &#xD;&#xA;PREMI PER CERCARE" HorizontalAlignment="Left" Margin="262,160,0,0" VerticalAlignment="Top" Width="227" Height="68" Click="btn_cerca_parola_Click"/>
+        <TextBox x:Name="txt_cerca" HorizontalAlignment="Left" Height="96" Margin="26,174,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="173" RenderTransformOrigin="0.658,1.565"/>
+        <Button x:Name="btn_anagrammi" Content="DOPO AVER INSERITO UNA PAROLA, &#xA;PREMI PER CERCARE GLI ANAGRAMMI&#xD;&#xA;DELLA PAROLA" HorizontalAlignment="Left" Margin="262,248,0,0" VerticalAlignment="Top" Width="227" Height="68" Click="btn_anagrammi_Click"/>
+        <Button x:Name="btn_anagrammi_brutti" Content="STESSA ROBA DEL PULSANTE&#xD;&#xA;DI PRIMA MA CON UNA&#xD;&#xA;LETTERA IN MENO" HorizontalAlignment="Left" Margin="514,248,0,0" VerticalAlignment="Top" Width="268" Height="68" Click="btn_anagrammi_brutti_Click"/>
+
+    </Grid>
+</Window>

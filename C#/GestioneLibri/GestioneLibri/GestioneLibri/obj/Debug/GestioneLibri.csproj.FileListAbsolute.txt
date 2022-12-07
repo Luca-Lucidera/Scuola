@@ -1,0 +1,16 @@
+E:\LUCIDERA LUCA\GestioneLibri\GestioneLibri\bin\Debug\GestioneLibri.exe.config
+E:\LUCIDERA LUCA\GestioneLibri\GestioneLibri\bin\Debug\GestioneLibri.exe
+E:\LUCIDERA LUCA\GestioneLibri\GestioneLibri\bin\Debug\GestioneLibri.pdb
+E:\LUCIDERA LUCA\GestioneLibri\GestioneLibri\obj\Debug\GestioneLibri.csprojAssemblyReference.cache
+E:\LUCIDERA LUCA\GestioneLibri\GestioneLibri\obj\Debug\MainWindow.g.cs
+E:\LUCIDERA LUCA\GestioneLibri\GestioneLibri\obj\Debug\App.g.cs
+E:\LUCIDERA LUCA\GestioneLibri\GestioneLibri\obj\Debug\GestioneLibri_MarkupCompile.cache
+E:\LUCIDERA LUCA\GestioneLibri\GestioneLibri\obj\Debug\GestioneLibri_MarkupCompile.lref
+E:\LUCIDERA LUCA\GestioneLibri\GestioneLibri\obj\Debug\MainWindow.baml
+E:\LUCIDERA LUCA\GestioneLibri\GestioneLibri\obj\Debug\GestioneLibri.g.resources
+E:\LUCIDERA LUCA\GestioneLibri\GestioneLibri\obj\Debug\GestioneLibri.Properties.Resources.resources
+E:\LUCIDERA LUCA\GestioneLibri\GestioneLibri\obj\Debug\GestioneLibri.csproj.GenerateResource.cache
+E:\LUCIDERA LUCA\GestioneLibri\GestioneLibri\obj\Debug\GestioneLibri.exe
+E:\LUCIDERA LUCA\GestioneLibri\GestioneLibri\obj\Debug\GestioneLibri.pdb
+E:\LUCIDERA LUCA\GestioneLibri\GestioneLibri\obj\Debug\Visualizza.g.cs
+E:\LUCIDERA LUCA\GestioneLibri\GestioneLibri\obj\Debug\Visualizza.baml

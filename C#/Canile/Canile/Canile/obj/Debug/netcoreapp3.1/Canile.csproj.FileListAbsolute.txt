@@ -1,0 +1,17 @@
+C:\Users\lucid\Desktop\Canile\Canile\bin\Debug\netcoreapp3.1\Canile.exe
+C:\Users\lucid\Desktop\Canile\Canile\bin\Debug\netcoreapp3.1\Canile.deps.json
+C:\Users\lucid\Desktop\Canile\Canile\bin\Debug\netcoreapp3.1\Canile.runtimeconfig.json
+C:\Users\lucid\Desktop\Canile\Canile\bin\Debug\netcoreapp3.1\Canile.runtimeconfig.dev.json
+C:\Users\lucid\Desktop\Canile\Canile\bin\Debug\netcoreapp3.1\Canile.dll
+C:\Users\lucid\Desktop\Canile\Canile\bin\Debug\netcoreapp3.1\Canile.pdb
+C:\Users\lucid\Desktop\Canile\Canile\obj\Debug\netcoreapp3.1\Canile.csprojAssemblyReference.cache
+C:\Users\lucid\Desktop\Canile\Canile\obj\Debug\netcoreapp3.1\MainWindow.g.cs
+C:\Users\lucid\Desktop\Canile\Canile\obj\Debug\netcoreapp3.1\App.g.cs
+C:\Users\lucid\Desktop\Canile\Canile\obj\Debug\netcoreapp3.1\Canile_MarkupCompile.cache
+C:\Users\lucid\Desktop\Canile\Canile\obj\Debug\netcoreapp3.1\Canile_MarkupCompile.lref
+C:\Users\lucid\Desktop\Canile\Canile\obj\Debug\netcoreapp3.1\MainWindow.baml
+C:\Users\lucid\Desktop\Canile\Canile\obj\Debug\netcoreapp3.1\Canile.g.resources
+C:\Users\lucid\Desktop\Canile\Canile\obj\Debug\netcoreapp3.1\Canile.AssemblyInfoInputs.cache
+C:\Users\lucid\Desktop\Canile\Canile\obj\Debug\netcoreapp3.1\Canile.AssemblyInfo.cs
+C:\Users\lucid\Desktop\Canile\Canile\obj\Debug\netcoreapp3.1\Canile.dll
+C:\Users\lucid\Desktop\Canile\Canile\obj\Debug\netcoreapp3.1\Canile.pdb

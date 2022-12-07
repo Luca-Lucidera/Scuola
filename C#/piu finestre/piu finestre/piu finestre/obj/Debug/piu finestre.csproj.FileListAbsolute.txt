@@ -1,0 +1,20 @@
+E:\Luca Lucidera\INFORMATICA\piu finestre\piu finestre\bin\Debug\piu finestre.exe.config
+E:\Luca Lucidera\INFORMATICA\piu finestre\piu finestre\bin\Debug\piu finestre.exe
+E:\Luca Lucidera\INFORMATICA\piu finestre\piu finestre\bin\Debug\piu finestre.pdb
+E:\Luca Lucidera\INFORMATICA\piu finestre\piu finestre\obj\Debug\piu finestre.csprojAssemblyReference.cache
+E:\Luca Lucidera\INFORMATICA\piu finestre\piu finestre\obj\Debug\MainWindow.g.cs
+E:\Luca Lucidera\INFORMATICA\piu finestre\piu finestre\obj\Debug\Seconda.g.cs
+E:\Luca Lucidera\INFORMATICA\piu finestre\piu finestre\obj\Debug\App.g.cs
+E:\Luca Lucidera\INFORMATICA\piu finestre\piu finestre\obj\Debug\piu finestre_MarkupCompile.cache
+E:\Luca Lucidera\INFORMATICA\piu finestre\piu finestre\obj\Debug\piu finestre_MarkupCompile.lref
+E:\Luca Lucidera\INFORMATICA\piu finestre\piu finestre\obj\Debug\MainWindow.baml
+E:\Luca Lucidera\INFORMATICA\piu finestre\piu finestre\obj\Debug\Seconda.baml
+E:\Luca Lucidera\INFORMATICA\piu finestre\piu finestre\obj\Debug\piu finestre.g.resources
+E:\Luca Lucidera\INFORMATICA\piu finestre\piu finestre\obj\Debug\piu_finestre.Properties.Resources.resources
+E:\Luca Lucidera\INFORMATICA\piu finestre\piu finestre\obj\Debug\piu finestre.csproj.GenerateResource.cache
+E:\Luca Lucidera\INFORMATICA\piu finestre\piu finestre\obj\Debug\piu finestre.exe
+E:\Luca Lucidera\INFORMATICA\piu finestre\piu finestre\obj\Debug\piu finestre.pdb
+E:\Luca Lucidera\INFORMATICA\piu finestre\piu finestre\obj\Debug\terza.g.cs
+E:\Luca Lucidera\INFORMATICA\piu finestre\piu finestre\obj\Debug\terza.baml
+E:\Luca Lucidera\INFORMATICA\piu finestre\piu finestre\obj\Debug\Dettagli.g.cs
+E:\Luca Lucidera\INFORMATICA\piu finestre\piu finestre\obj\Debug\Dettagli.baml

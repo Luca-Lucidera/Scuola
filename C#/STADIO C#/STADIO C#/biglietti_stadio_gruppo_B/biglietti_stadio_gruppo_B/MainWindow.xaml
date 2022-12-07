@@ -1,0 +1,23 @@
+﻿<Window x:Class="biglietti_stadio_gruppo_B.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:biglietti_stadio_gruppo_B"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="800">
+    <Grid>
+        <Grid.Background>
+            <ImageBrush ImageSource="Stadio_Meazza.jpg"/>
+        </Grid.Background>
+        <Button x:Name="btn_Nuovo_biglietto" Content="PREMI PER AGGIUNGERE &#xD;&#xA;UN BIGLIETTO" HorizontalAlignment="Left" Margin="311,195,0,0" VerticalAlignment="Top" Width="160" Height="60" Click="btn_Nuovo_biglietto_Click" Background="#FF9E8D73" FontWeight="SemiBold" Foreground="Black"/>
+        <Button x:Name="btn_salva" Content="SALVA I BIGLIETTI &#xD;&#xA; SU FILE DI TESTO&#xD;&#xA;" HorizontalAlignment="Left" Margin="10,195,0,0" VerticalAlignment="Top" Width="160" Height="60" Background="#FF9E8D73" FontWeight="SemiBold" Click="btn_salva_Click"/>
+        <Button x:Name="btn_carica" Content="CARICA I BIGLIETTI &#xD;&#xA; DA FILE DI TESTO&#xA;" HorizontalAlignment="Left" Margin="622,195,0,0" VerticalAlignment="Top" Width="160" Height="60" Background="#FF9E8D73" FontWeight="SemiBold" Click="btn_carica_Click" FontStretch="ExtraExpanded" Foreground="Black"/>
+        <Button x:Name="btn_cerca" Content="CERCA UN BIGLIETTO&#xD;&#xA;E/O MODIFICARLO" HorizontalAlignment="Left" Margin="470,291,0,0" VerticalAlignment="Top" Width="160" Height="60" Background="#FF9E8D73" FontWeight="SemiBold" Click="btn_cerca_Click"/>
+        <Button x:Name="btn_visualizza" Content="VISUALIZZA TUTTI &#xD;&#xA;I BIGLIETTI" HorizontalAlignment="Left" Margin="160,291,0,0" VerticalAlignment="Top" Width="153" Height="60" Background="#FF9E8D73" FontWeight="SemiBold" Click="btn_visualizza_Click" Foreground="Black"/>
+        <Label x:Name="lbl_orario" Content="" HorizontalAlignment="Left" Margin="10,10,0,0" VerticalAlignment="Top" Height="59" Width="170"/>
+        <Button x:Name="btn_eventi" Content="SELEZIONA EVENTI" HorizontalAlignment="Left" Margin="10,74,0,0" VerticalAlignment="Top" Width="160" Height="60" Background="#FF9E8D73" FontWeight="SemiBold" Click="btn_eventi_Click"/>
+        <Button x:Name="btn_carica_eventi" Content="CARICA EVENTI DA &#xD;&#xA; FILE DI TESTO" HorizontalAlignment="Left" Margin="311,74,0,0" VerticalAlignment="Top" Width="160" Height="60" Background="#FF9E8D73" FontWeight="SemiBold" FontStretch="ExtraExpanded" Foreground="Black" Click="btn_carica_eventi_Click"/>
+
+    </Grid>
+</Window>

@@ -1,0 +1,20 @@
+﻿<Window x:Class="GestioneLibri.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:GestioneLibri"
+        mc:Ignorable="d"
+        Title="gestione libri v2" Height="450" Width="335.246">
+    <Grid Margin="0,0,2,0">
+        <Button x:Name="btnSalva" Content="Salva su file di testo" HorizontalAlignment="Left" Margin="16,332,0,0" VerticalAlignment="Top" Width="149" Height="73" Click="btnSalva_Click"/>
+        <Button x:Name="btnInserisci" Content="inserisci libro" HorizontalAlignment="Left" Margin="16,58,0,0" VerticalAlignment="Top" Width="149" Height="71" Click="btnInserisci_Click"/>
+        <Button x:Name="btnVisualizza" Content="visualizza libri" HorizontalAlignment="Left" Margin="16,134,0,0" VerticalAlignment="Top" Width="149" Height="67" Click="btnVisualizza_Click"/>
+        <Button x:Name="btnCerca" Content="cerca libro" HorizontalAlignment="Left" Margin="16,206,0,0" VerticalAlignment="Top" Width="149" Height="58" Click="btnCerca_Click"/>
+        <Button x:Name="btnCarica" Content="Carica da file di testo" HorizontalAlignment="Left" Margin="16,269,0,0" VerticalAlignment="Top" Width="149" Height="58" Click="btnCarica_Click"/>
+        <Button x:Name="btnSalvaBin" Content="Salva su file binario" HorizontalAlignment="Left" Height="73" Margin="170,332,0,0" VerticalAlignment="Top" Width="133" Click="btnSalvaBin_Click"/>
+        <Button Content="Carica da file binario" HorizontalAlignment="Left" Height="58" Margin="170,269,0,0" VerticalAlignment="Top" Width="133" Click="Button_Click"/>
+        <Label Content="Gestione libri v2" HorizontalAlignment="Left" Height="50" Margin="16,3,0,0" VerticalAlignment="Top" Width="177" FontSize="20" FontWeight="Bold" FontFamily="Microsoft Sans Serif"/>
+
+    </Grid>
+</Window>

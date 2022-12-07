@@ -1,0 +1,17 @@
+C:\Users\lucid\Desktop\Edicola\Edicola\bin\Debug\netcoreapp3.1\Edicola.exe
+C:\Users\lucid\Desktop\Edicola\Edicola\bin\Debug\netcoreapp3.1\Edicola.deps.json
+C:\Users\lucid\Desktop\Edicola\Edicola\bin\Debug\netcoreapp3.1\Edicola.runtimeconfig.json
+C:\Users\lucid\Desktop\Edicola\Edicola\bin\Debug\netcoreapp3.1\Edicola.runtimeconfig.dev.json
+C:\Users\lucid\Desktop\Edicola\Edicola\bin\Debug\netcoreapp3.1\Edicola.dll
+C:\Users\lucid\Desktop\Edicola\Edicola\bin\Debug\netcoreapp3.1\Edicola.pdb
+C:\Users\lucid\Desktop\Edicola\Edicola\obj\Debug\netcoreapp3.1\Edicola.csprojAssemblyReference.cache
+C:\Users\lucid\Desktop\Edicola\Edicola\obj\Debug\netcoreapp3.1\MainWindow.g.cs
+C:\Users\lucid\Desktop\Edicola\Edicola\obj\Debug\netcoreapp3.1\App.g.cs
+C:\Users\lucid\Desktop\Edicola\Edicola\obj\Debug\netcoreapp3.1\Edicola_MarkupCompile.cache
+C:\Users\lucid\Desktop\Edicola\Edicola\obj\Debug\netcoreapp3.1\Edicola_MarkupCompile.lref
+C:\Users\lucid\Desktop\Edicola\Edicola\obj\Debug\netcoreapp3.1\MainWindow.baml
+C:\Users\lucid\Desktop\Edicola\Edicola\obj\Debug\netcoreapp3.1\Edicola.g.resources
+C:\Users\lucid\Desktop\Edicola\Edicola\obj\Debug\netcoreapp3.1\Edicola.AssemblyInfoInputs.cache
+C:\Users\lucid\Desktop\Edicola\Edicola\obj\Debug\netcoreapp3.1\Edicola.AssemblyInfo.cs
+C:\Users\lucid\Desktop\Edicola\Edicola\obj\Debug\netcoreapp3.1\Edicola.dll
+C:\Users\lucid\Desktop\Edicola\Edicola\obj\Debug\netcoreapp3.1\Edicola.pdb

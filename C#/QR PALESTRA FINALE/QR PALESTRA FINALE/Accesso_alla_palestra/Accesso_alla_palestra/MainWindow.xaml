@@ -1,0 +1,22 @@
+﻿<Window x:Class="Accesso_alla_palestra.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Accesso_alla_palestra"
+        mc:Ignorable="d" 
+        xmlns:qwc="clr-namespace:QrWebCam;assembly=QrWebCam"
+        Title="MainWindow" Height="500" Width="909.5">
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="469" />
+        </Grid.RowDefinitions>
+
+
+        <ComboBox SelectionChanged="camSelect_SelectionChanged" x:Name="camSelect" VerticalAlignment="Center" HorizontalAlignment="Center" Grid.Row="0" Margin="304,0,346,447" Width="252" />
+        <qwc:QrWebCamControl Loaded="Window_Loaded" x:Name="webCam" QrDecoded="QrWebCamControl_QrDecoded" Margin="0,93,481,0" />
+        <TextBox x:Name="txt_debug" HorizontalAlignment="Left" Height="183" Margin="438,39,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="437"/>
+        <WebBrowser x:Name="web" HorizontalAlignment="Left" Height="216" Margin="456,243,0,0" VerticalAlignment="Top" Width="419"/>
+        <Label x:Name="lbl_tempo" Content="" HorizontalAlignment="Left" Margin="10,39,0,0" VerticalAlignment="Top" Height="49" Width="395"/>
+    </Grid>
+</Window>

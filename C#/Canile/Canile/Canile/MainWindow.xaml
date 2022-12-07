@@ -1,0 +1,35 @@
+﻿<Window x:Class="Canile.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Canile"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="800">
+    <Grid>
+        <Label x:Name="label" Content="Nome:" HorizontalAlignment="Left" Margin="30,50,0,0" VerticalAlignment="Top" Width="49"/>
+        <TextBox x:Name="txtNome" HorizontalAlignment="Left" Margin="93,50,0,0" Text="eliminami" TextWrapping="Wrap" VerticalAlignment="Top" Width="120" Height="26"/>
+        <RadioButton x:Name="btnMaschio" Content="Maschio" GroupName="sesso" HorizontalAlignment="Left" Margin="30,94,0,0" VerticalAlignment="Top"/>
+        <RadioButton x:Name="btnFemmina" Content="Femmina" GroupName="sesso" HorizontalAlignment="Left" Margin="119,94,0,0" VerticalAlignment="Top"/>
+        <TextBox x:Name="txtId" HorizontalAlignment="Left" Margin="93,124,0,0" Text="TextBox" TextWrapping="Wrap" VerticalAlignment="Top" Width="120"/>
+        <Label x:Name="label1" Content="IDCHIP:" HorizontalAlignment="Left" Margin="30,120,0,0" VerticalAlignment="Top" Width="49"/>
+        <Label x:Name="label2" Content="Razza" HorizontalAlignment="Left" Margin="30,151,0,0" VerticalAlignment="Top" Width="49"/>
+        <TextBox x:Name="txtRazza" HorizontalAlignment="Left" Margin="93,155,0,0" Text="TextBox" TextWrapping="Wrap" VerticalAlignment="Top" Width="120"/>
+        <ComboBox x:Name="comboBoxProvincia" HorizontalAlignment="Left" Margin="93,201,0,0" VerticalAlignment="Top" Width="120" RenderTransformOrigin="0.525,0.389"/>
+        <Label x:Name="label3" Content="Provincia" HorizontalAlignment="Left" Margin="30,201,0,0" VerticalAlignment="Top" Height="26" Width="58"/>
+        <Slider x:Name="slider" HorizontalAlignment="Left" Margin="93,250,0,0" VerticalAlignment="Top" Width="120" Maximum="29"/>
+        <Label x:Name="label4" Content="Peso" HorizontalAlignment="Left" Margin="30,241,0,0" VerticalAlignment="Top"/>
+        <RadioButton x:Name="btnVaccinoVero" Content="Vero" GroupName="vaccino" HorizontalAlignment="Left" Margin="93,296,0,0" VerticalAlignment="Top"/>
+        <RadioButton x:Name="btnVaccinoFalso" Content="Falso" GroupName="vaccino" HorizontalAlignment="Left" Margin="153,299,0,0" VerticalAlignment="Top" Width="60"/>
+        <Label x:Name="label5" Content="Vaccino" HorizontalAlignment="Left" Margin="30,290,0,0" VerticalAlignment="Top"/>
+        <Button x:Name="btnImmagine" Content="immagine" HorizontalAlignment="Left" Margin="30,332,0,0" VerticalAlignment="Top" Width="183" Click="btnImmagine_Click"/>
+        <Image x:Name="image" HorizontalAlignment="Left" Height="170" Margin="446,50,0,0" VerticalAlignment="Top" Width="336"/>
+        <Button x:Name="btnAdd" Content="ADD" HorizontalAlignment="Left" Margin="30,384,0,0" VerticalAlignment="Top" Width="183" Click="btnAdd_Click"/>
+        <Button x:Name="button" Content="start" HorizontalAlignment="Left" Margin="231,203,0,0" VerticalAlignment="Top" Width="41" Click="button_Click"/>
+        <Label x:Name="labelRiassunto" Content="Label" HorizontalAlignment="Left" Margin="282,264,0,0" VerticalAlignment="Top" RenderTransformOrigin="0.395,0.002" Width="484" Height="145"/>
+        <Button x:Name="btnVis" Content="vis" HorizontalAlignment="Left" Margin="233,384,0,0" VerticalAlignment="Top" Width="37" Click="btnVis_Click" RenderTransformOrigin="0.318,0.864" Height="25"/>
+        <Button x:Name="btnCerca" Content="cerca per id" HorizontalAlignment="Left" Margin="225,124,0,0" VerticalAlignment="Top" Height="18" Width="81" Click="btnCerca_Click"/>
+        <Button x:Name="btnAdotta" Content="adotta" HorizontalAlignment="Left" Margin="323,123,0,0" VerticalAlignment="Top" Click="btnAdotta_Click"/>
+
+    </Grid>
+</Window>

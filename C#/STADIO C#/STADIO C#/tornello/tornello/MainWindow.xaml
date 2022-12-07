@@ -1,0 +1,18 @@
+﻿<Window x:Class="tornello.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:tornello"
+        mc:Ignorable="d"
+        xmlns:qwc="clr-namespace:QrWebCam;assembly=QrWebCam"
+        Title="MainWindow" Height="450" Width="800">
+
+    <Grid>
+        <qwc:QrWebCamControl Loaded="Window_Loaded" x:Name="webCam" QrDecoded="QrWebCamControl_QrDecoded" Margin="362,40,10,10" />
+        <ComboBox x:Name="comboEventi" HorizontalAlignment="Left" Margin="10,10,0,0" VerticalAlignment="Top" Width="215" Height="25" SelectionChanged="comboEventi_SelectionChanged"/>
+        <Label x:Name="lbl_orario" Content="ORARIO" HorizontalAlignment="Left" Margin="637,9,0,0" VerticalAlignment="Top" Width="145"/>
+        <ComboBox x:Name="combo_webcam" HorizontalAlignment="Left" Margin="277,9,0,0" VerticalAlignment="Top" Width="65" Height="25" SelectionChanged="combo_webcam_SelectionChanged"/>
+        <Label x:Name="lbl_persone_presenti" Content="" HorizontalAlignment="Left" Margin="10,125,0,0" VerticalAlignment="Top" Height="284" Width="268"/>
+    </Grid>
+</Window>

@@ -1,0 +1,18 @@
+﻿<Window x:Class="PrimoProgetto.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:PrimoProgetto"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="800">
+    <Grid>
+        <Button x:Name="btn1" Content="visualizza persona" HorizontalAlignment="Left" Margin="42,313,0,0" VerticalAlignment="Top" Width="138" Height="42" Click="btn_Click"/>
+        <TextBox x:Name="txt1" HorizontalAlignment="Center" Height="117" Margin="326,292,10,0" TextWrapping="Wrap" Text="TextBox" VerticalAlignment="Top" Width="456"/>
+        <TextBox x:Name="txtNome" HorizontalAlignment="Left" Height="48" Margin="42,62,0,0" TextWrapping="Wrap" Text="TextBox" VerticalAlignment="Top" Width="120"/>
+        <TextBox x:Name="textCognome" HorizontalAlignment="Left" Height="54" Margin="42,153,0,0" TextWrapping="Wrap" Text="TextBox" VerticalAlignment="Top" Width="120"/>
+        <TextBox x:Name="textEta" HorizontalAlignment="Left" Height="38" Margin="42,240,0,0" TextWrapping="Wrap" Text="TextBox" VerticalAlignment="Top" Width="120"/>
+        <Button x:Name="btn2" Content="Salva la persona" HorizontalAlignment="Left" Margin="354,85,0,0" VerticalAlignment="Top" Width="120" Height="41" Click="btn2_Click"/>
+
+    </Grid>
+</Window>

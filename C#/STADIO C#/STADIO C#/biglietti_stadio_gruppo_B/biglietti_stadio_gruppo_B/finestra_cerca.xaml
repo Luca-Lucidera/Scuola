@@ -1,0 +1,32 @@
+﻿<Window x:Class="biglietti_stadio_gruppo_B.finestra_cerca"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:biglietti_stadio_gruppo_B"
+        mc:Ignorable="d"
+        Title="finestra_cerca" Height="450" Width="800">
+    <Grid>
+        <TextBlock x:Name="txt_nome" HorizontalAlignment="Left" Margin="458,7,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Height="37" Width="186"/>
+        <TextBlock x:Name="txt_cognome" HorizontalAlignment="Left" Margin="458,49,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Height="37" Width="186"/>
+        <TextBlock x:Name="txt_email" HorizontalAlignment="Left" Margin="458,104,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Height="37" Width="186"/>
+        <TextBlock x:Name="txt_numeroTelefono" HorizontalAlignment="Left" Margin="458,161,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Height="37" Width="186"/>
+        <TextBlock x:Name="txt_numeroBiglietto" HorizontalAlignment="Left" Margin="458,234,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Height="37" Width="186"/>
+        <TextBlock x:Name="textBlock_nome" HorizontalAlignment="Left" Margin="315,7,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Height="37" Width="138"><Run Text="                             "/><Run Text="NOME"/><Run Text=":"/></TextBlock>
+        <TextBlock x:Name="textBlock_cognome" HorizontalAlignment="Left" Margin="315,49,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Height="37" Width="138"><Run Text="                     "/><Run Text="COG"/><Run Text="NOME"/><Run Text=":"/></TextBlock>
+        <TextBlock x:Name="textBlock_email" HorizontalAlignment="Left" Margin="315,104,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Height="37" Width="138"><Run Text="&#x9;              "/><Run Text="EMAIL"/><Run Text=":"/></TextBlock>
+        <TextBlock x:Name="textBlock_numeroTelefono" HorizontalAlignment="Left" Margin="315,161,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Height="37" Width="138"><Run Text="      "/><Run Text="NUMERO"/><Run Text=" "/><Run Text="TELEFONO"/><Run Text=":"/><Run Text=" "/></TextBlock>
+        <TextBlock x:Name="textBlock" HorizontalAlignment="Left" Margin="315,234,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Height="37" Width="138"><Run Text="NUMERO DEL BIGLIETTO"/><Run Text=":"/></TextBlock>
+        <Image x:Name="image" HorizontalAlignment="Left" Height="158" Margin="649,7,0,0" VerticalAlignment="Top" Width="133"/>
+        <TextBlock x:Name="textBlock1" HorizontalAlignment="Left" Margin="10,10,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Height="57" Width="120" Text="INSERIRE L'EVENTO, SPAZIO, NUMERO DEL BIGLIETTO"/>
+        <TextBox x:Name="txt_trova" HorizontalAlignment="Left" Height="56" Margin="135,11,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="120"/>
+        <Button x:Name="btn_modifica" Content="MODIFICA IL BIGLIETTO INSERITO" HorizontalAlignment="Left" Margin="315,338,0,0" VerticalAlignment="Top" Width="338" Height="71" Background="#FFD8C509" Click="btn_modifica_Click"/>
+        <Button x:Name="button" Content="TORNA MAIN WINDOW" HorizontalAlignment="Left" Margin="10,338,0,0" VerticalAlignment="Top" Width="133" Height="71" Background="#FFD80909" Click="button_Click"/>
+        <TextBlock x:Name="txt_evento" HorizontalAlignment="Left" Margin="458,276,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Height="37" Width="186"/>
+        <TextBlock x:Name="textBlock_Copy" HorizontalAlignment="Left" Margin="315,276,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Height="37" Width="138" Text="EVNTO:"/>
+        <Button x:Name="btn_cerca" Content="CERCA" HorizontalAlignment="Left" Margin="10,72,0,0" VerticalAlignment="Top" Width="245" Height="28" Click="btn_cerca_Click"/>
+        <TextBlock x:Name="textBlock_Copy1" HorizontalAlignment="Left" Margin="10,128,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Height="37" Width="50" Text="COSTO:"/>
+        <TextBlock x:Name="txt_costo" HorizontalAlignment="Left" Margin="69,128,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Height="37" Width="186"/>
+
+    </Grid>
+</Window>

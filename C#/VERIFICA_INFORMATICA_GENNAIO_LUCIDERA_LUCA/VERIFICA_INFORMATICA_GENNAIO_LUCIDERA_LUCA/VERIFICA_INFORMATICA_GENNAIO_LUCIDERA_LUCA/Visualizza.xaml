@@ -1,0 +1,21 @@
+﻿<Window x:Class="VERIFICA_INFORMATICA_GENNAIO_LUCIDERA_LUCA.Visualizza"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:VERIFICA_INFORMATICA_GENNAIO_LUCIDERA_LUCA"
+        mc:Ignorable="d"
+        Title="Visualizza" Height="450" Width="800">
+    <Grid>
+        <ListView x:Name="lst" HorizontalAlignment="Left" Height="224" Margin="37,10,0,0" VerticalAlignment="Top" Width="726" SelectionChanged="lst_SelectionChanged">
+            <ListView.View>
+                <GridView>
+                    <GridViewColumn/>
+                </GridView>
+            </ListView.View>
+        </ListView>
+        <Image x:Name="img" HorizontalAlignment="Left" Height="170" Margin="37,239,0,0" VerticalAlignment="Top" Width="393"/>
+        <Button x:Name="btn_indietro" Content="TORNA MAIN WINDOW" HorizontalAlignment="Left" Margin="524,272,0,0" VerticalAlignment="Top" Width="239" Height="137" Click="btn_indietro_Click"/>
+
+    </Grid>
+</Window>

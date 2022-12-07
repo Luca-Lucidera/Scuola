@@ -1,0 +1,24 @@
+﻿<Window x:Class="VERIFICA_LUCA_LUCIDERA.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:VERIFICA_LUCA_LUCIDERA"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="800">
+    <Grid>
+        <Button Content="ADD" HorizontalAlignment="Left" Margin="98,298,0,0" VerticalAlignment="Top" Width="75" Click="Button_Click"/>
+        <Button Content="VAI A VISUALIZZA" HorizontalAlignment="Left" Margin="237,303,0,0" VerticalAlignment="Top" Width="182" Click="Button_Click_2"/>
+        <ComboBox x:Name="cmb" HorizontalAlignment="Left" Margin="87,51,0,0" VerticalAlignment="Top" Width="120"/>
+        <Slider x:Name="slr1" HorizontalAlignment="Left" Margin="277,51,0,0" VerticalAlignment="Top" Width="104"/>
+        <Label Content="Label" HorizontalAlignment="Left" Margin="408,47,0,0" VerticalAlignment="Top" Width="70"/>
+        <RadioButton x:Name="radioEnduro" Content="ENDURO" HorizontalAlignment="Left" Margin="76,170,0,0" VerticalAlignment="Top"/>
+        <RadioButton x:Name="radioStradale" Content="STRADALE" HorizontalAlignment="Left" Margin="188,170,0,0" VerticalAlignment="Top"/>
+        <RadioButton x:Name="radioCross" Content="CROSS" HorizontalAlignment="Left" Margin="295,170,0,0" VerticalAlignment="Top"/>
+        <Slider x:Name="sliderPrezzo" HorizontalAlignment="Left" Margin="114,240,0,0" VerticalAlignment="Top" Width="111"/>
+        <Image x:Name="image" HorizontalAlignment="Left" Height="100" Margin="10,284,0,0" VerticalAlignment="Top" Width="329"/>
+        <TextBox HorizontalAlignment="Left" Height="23" Margin="10,235,0,0" TextWrapping="Wrap" Text="PREZZO:" VerticalAlignment="Top" Width="86" RenderTransformOrigin="0.386,0.506"/>
+        <Button x:Name="btnSingolo" Content="ADD SINGOLO" HorizontalAlignment="Left" Margin="507,303,0,0" VerticalAlignment="Top" Width="106" Click="Button_Click_1"/>
+
+    </Grid>
+</Window>
