@@ -1,0 +1,32 @@
+@hostname = http://localhost/esercizi/ws_pozzi
+@token = nrVI5UBQ7gtDpO32abvxrNtI1DAgDYvpwuCTbRYIaGgmCocnFt
+####
+GET {{hostname}}/register.php
+?username=luca
+&password=luca HTTP/1.1
+
+### login
+GET {{hostname}}/getToken.php
+?username=luca
+&password=luca HTTP/1.1
+
+###
+GET {{hostname}}/setString.php
+?token={{token}}
+&key=counter 
+&string=0 HTTP/1.1
+Content-Type: application/json
+
+###
+GET {{hostname}}/getString.php
+?token={{token}}
+&key=counter HTTP/1.1
+
+###
+GET {{hostname}}/getKeys.php
+?token={{token}} HTTP/1.1
+
+###
+GET {{hostname}}/deleteString.php
+?token={{token}}
+&key=key2 HTTP/1.1
