@@ -1,0 +1,8 @@
+<map id="main" name="main">
+<area shape="rect" id="node2" href="$class_c_quotidiani.html#a101b2ecd5bc036b13dd7ab1af6a50f40" title="inserisco un oggetto quotidiano nel vettore di oggetti quotidiani " alt="" coords="113,5,301,32"/>
+<area shape="rect" id="node3" href="$class_c_quotidiani.html#ae62bc1fb9e03525aaf85f0c5997c9c90" title="visualizzo tutto l&#39;array " alt="" coords="119,56,296,83"/>
+<area shape="rect" id="node5" href="$class_c_quotidiani.html#a2809a64e3264b0329ea676586342562c" title="chiedo quale quotidiano eliminare dando la posizione del vettore come parametro " alt="" coords="107,107,307,133"/>
+<area shape="rect" id="node6" href="$class_c_quotidiani.html#ab0e0d75332d50807c8ec43b08455b4ad" title="metodo per cercare un quotidiano data la data " alt="" coords="119,157,295,184"/>
+<area shape="rect" id="node7" href="$class_c_quotidiani.html#ac91134706ce6c17e8dd8208b9d180e00" title="vado a modificare un oggetto quotidiano presente nel vettore di quotidiani passando per parametro i d..." alt="" coords="104,208,311,235"/>
+<area shape="rect" id="node4" href="$class_c_quotidiano.html#ae70a950e080cb97c62c57db726266602" title="restituisce tutti gli attributi in un unica stringa " alt="" coords="359,107,504,133"/>
+</map>

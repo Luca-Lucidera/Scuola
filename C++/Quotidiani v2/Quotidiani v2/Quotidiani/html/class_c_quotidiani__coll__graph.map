@@ -1,0 +1,3 @@
+<map id="CQuotidiani" name="CQuotidiani">
+<area shape="rect" id="node2" href="$class_c_quotidiano.html" title="{CQuotidiano\n|&#45; nome\l&#45; nomeFile\l&#45; giorno\l&#45; mese\l&#45; anno\l&#45; allegato\l|+ CQuotidiano()\l+ CQuotidiano()\l+ getNome()\l+ getGiorno()\l+ getMese()\l+ getAnno()\l+ getNomeFile()\l+ getAllegato()\l+ visTutto()\l}" alt="" coords="24,5,139,273"/>
+</map>
