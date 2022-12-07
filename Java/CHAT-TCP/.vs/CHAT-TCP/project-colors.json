@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "0a051a17-aa6c-4f20-8e0c-abaad553cebc": {
+      "ProjectGuid": "0a051a17-aa6c-4f20-8e0c-abaad553cebc",
+      "DisplayName": "CHAT-TCP",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}

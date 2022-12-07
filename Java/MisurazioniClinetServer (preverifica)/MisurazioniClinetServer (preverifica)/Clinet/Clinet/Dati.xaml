@@ -1,0 +1,23 @@
+﻿<Window x:Class="Clinet.Dati"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Clinet"
+        mc:Ignorable="d"
+        Title="Dati" Height="450" Width="800">
+    <Grid>
+        <Label x:Name="label" Content="Temperatura media" HorizontalAlignment="Left" Margin="72,45,0,0" VerticalAlignment="Top" Width="137" Height="31"/>
+        <Label x:Name="label_Copy" Content="Umidita media" HorizontalAlignment="Left" Margin="72,120,0,0" VerticalAlignment="Top" Width="137" Height="31"/>
+        <Label x:Name="label_Copy1" Content="Temperatura minima" HorizontalAlignment="Left" Margin="72,186,0,0" VerticalAlignment="Top" Width="137" Height="31"/>
+        <Label x:Name="label_Copy2" Content="Temperatura massima" HorizontalAlignment="Left" Margin="72,244,0,0" VerticalAlignment="Top" Width="137" Height="31"/>
+        <Label x:Name="label_Copy3" Content="Numero temperature superiori&#xD;&#xA;alla media" HorizontalAlignment="Left" Margin="72,306,0,0" VerticalAlignment="Top" Width="195" Height="51"/>
+        <TextBox x:Name="txt_tm" HorizontalAlignment="Left" Margin="372,52,0,0" TextWrapping="Wrap" Text="TextBox" VerticalAlignment="Top" Width="120"/>
+        <TextBox x:Name="txt_tMax" HorizontalAlignment="Left" Margin="372,251,0,0" TextWrapping="Wrap" Text="TextBox" VerticalAlignment="Top" Width="120"/>
+        <TextBox x:Name="txt_tMin" HorizontalAlignment="Left" Margin="372,193,0,0" TextWrapping="Wrap" Text="TextBox" VerticalAlignment="Top" Width="120"/>
+        <TextBox x:Name="txt_um" HorizontalAlignment="Left" Margin="372,118,0,0" TextWrapping="Wrap" Text="TextBox" VerticalAlignment="Top" Width="120"/>
+        <TextBox x:Name="txt_nTm" HorizontalAlignment="Left" Margin="372,314,0,0" TextWrapping="Wrap" Text="TextBox" VerticalAlignment="Top" Width="120"/>
+        <Button x:Name="button" Content="Close" HorizontalAlignment="Left" Margin="643,357,0,0" VerticalAlignment="Top" Width="95" Height="49" Click="button_Click"/>
+
+    </Grid>
+</Window>

@@ -1,0 +1,26 @@
+﻿<Window x:Class="CLIENT.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:CLIENT"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="507" Width="396">
+    <Grid>
+        <ComboBox x:Name="comboCassieri" HorizontalAlignment="Left" Margin="241,49,0,0" VerticalAlignment="Top" Width="115" Height="36"/>
+        <Label x:Name="label_Copy1" Content="Scegliere il cassiere&#xA;" HorizontalAlignment="Left" Margin="41,49,0,0" VerticalAlignment="Top" Height="36" Width="157"/>
+        <Button x:Name="button" Content="Invia" HorizontalAlignment="Center" Margin="0,310,0,0" VerticalAlignment="Top" Height="32" Width="314" Click="button_Click"/>
+        <Button x:Name="btn_close" Content="Chiudi ordine" HorizontalAlignment="Center" Margin="0,420,0,0" VerticalAlignment="Top" Height="32" Width="314" Click="btn_close_Click"/>
+        <Button x:Name="btn_scontrino" Content="Scontrino (totale e parziale)" HorizontalAlignment="Center" Margin="0,367,0,0" VerticalAlignment="Top" Height="32" Width="315" Click="btn_scontrino_Click"/>
+        <ListView x:Name="listProdotti" d:ItemsSource="{d:SampleData ItemCount=5}" Margin="41,98,40,260">
+            <ListView.View>
+                <GridView>
+                    <GridViewColumn/>
+                </GridView>
+            </ListView.View>
+        </ListView>
+        <TextBox x:Name="txt_quantita" HorizontalAlignment="Left" Margin="241,254,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="114" Height="37"/>
+        <Label x:Name="label" Content="Inserire la quantità " HorizontalAlignment="Left" Margin="41,254,0,0" VerticalAlignment="Top" Height="37" Width="157"/>
+
+    </Grid>
+</Window>

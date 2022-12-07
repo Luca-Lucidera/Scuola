@@ -1,0 +1,15 @@
+G:\Il mio Drive\Scuola\QUINTA\Tecnologie\Laboratorio\ClientServerBancoAlimentari\CLIENT\CLIENT\bin\Debug\CLIENT.exe.config
+G:\Il mio Drive\Scuola\QUINTA\Tecnologie\Laboratorio\ClientServerBancoAlimentari\CLIENT\CLIENT\bin\Debug\CLIENT.exe
+G:\Il mio Drive\Scuola\QUINTA\Tecnologie\Laboratorio\ClientServerBancoAlimentari\CLIENT\CLIENT\bin\Debug\CLIENT.pdb
+G:\Il mio Drive\Scuola\QUINTA\Tecnologie\Laboratorio\ClientServerBancoAlimentari\CLIENT\CLIENT\obj\Debug\MainWindow.g.cs
+G:\Il mio Drive\Scuola\QUINTA\Tecnologie\Laboratorio\ClientServerBancoAlimentari\CLIENT\CLIENT\obj\Debug\App.g.cs
+G:\Il mio Drive\Scuola\QUINTA\Tecnologie\Laboratorio\ClientServerBancoAlimentari\CLIENT\CLIENT\obj\Debug\CLIENT_MarkupCompile.cache
+G:\Il mio Drive\Scuola\QUINTA\Tecnologie\Laboratorio\ClientServerBancoAlimentari\CLIENT\CLIENT\obj\Debug\CLIENT_MarkupCompile.lref
+G:\Il mio Drive\Scuola\QUINTA\Tecnologie\Laboratorio\ClientServerBancoAlimentari\CLIENT\CLIENT\obj\Debug\MainWindow.baml
+G:\Il mio Drive\Scuola\QUINTA\Tecnologie\Laboratorio\ClientServerBancoAlimentari\CLIENT\CLIENT\obj\Debug\CLIENT.g.resources
+G:\Il mio Drive\Scuola\QUINTA\Tecnologie\Laboratorio\ClientServerBancoAlimentari\CLIENT\CLIENT\obj\Debug\CLIENT.Properties.Resources.resources
+G:\Il mio Drive\Scuola\QUINTA\Tecnologie\Laboratorio\ClientServerBancoAlimentari\CLIENT\CLIENT\obj\Debug\CLIENT.csproj.GenerateResource.cache
+G:\Il mio Drive\Scuola\QUINTA\Tecnologie\Laboratorio\ClientServerBancoAlimentari\CLIENT\CLIENT\obj\Debug\CLIENT.exe
+G:\Il mio Drive\Scuola\QUINTA\Tecnologie\Laboratorio\ClientServerBancoAlimentari\CLIENT\CLIENT\obj\Debug\CLIENT.pdb
+G:\Il mio Drive\Scuola\QUINTA\Tecnologie\Laboratorio\ClientServerBancoAlimentari\CLIENT\CLIENT\obj\Debug\CLIENT.csproj.AssemblyReference.cache
+G:\Il mio Drive\Scuola\QUINTA\Tecnologie\Laboratorio\ClientServerBancoAlimentari\CLIENT\CLIENT\obj\Debug\CLIENT.csproj.CoreCompileInputs.cache

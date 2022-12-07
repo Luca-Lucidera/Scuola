@@ -1,0 +1,18 @@
+﻿<Window x:Class="Client.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Client"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="800">
+    <Grid>
+        <Label Content="Rappresentante di classe:" HorizontalAlignment="Left" Margin="221,76,0,0" VerticalAlignment="Top" Width="146"/>
+        <Label Content="Rappresentante d'istituto:" HorizontalAlignment="Left" Margin="221,121,0,0" VerticalAlignment="Top"/>
+        <TextBox x:Name="txt_classe" HorizontalAlignment="Left" Height="26" Margin="433,76,0,0" TextWrapping="Wrap" Text="TextBox" VerticalAlignment="Top" Width="120"/>
+        <TextBox x:Name="txt_istituto" HorizontalAlignment="Left" Height="26" Margin="433,121,0,0" TextWrapping="Wrap" Text="TextBox" VerticalAlignment="Top" Width="120"/>
+        <Button x:Name="btn_send" Content="SEND" HorizontalAlignment="Left" Margin="221,194,0,0" VerticalAlignment="Top" Width="332" Height="62" Click="btn_send_Click"/>
+        <Button x:Name="btn_ris" Content="RISULTATI" HorizontalAlignment="Left" Margin="221,289,0,0" VerticalAlignment="Top" Width="332" Height="62" Click="btn_ris_Click"/>
+
+    </Grid>
+</Window>

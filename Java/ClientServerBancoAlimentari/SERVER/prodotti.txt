@@ -1,0 +1,6 @@
+Cotto;10
+Curdo;13
+Salame;20
+Pancetta;7
+Insalata_Russa,5
+Crocchette_patate;8

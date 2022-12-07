@@ -1,0 +1,3 @@
+A;cotto;50.0;2
+A;cotto;50.0;1
+A;cotto;50.0;3

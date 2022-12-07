@@ -1,0 +1,17 @@
+﻿<Window x:Class="CLIENT.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:CLIENT"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="800">
+    <Grid>
+        <ComboBox x:Name="ComboProdotti" HorizontalAlignment="Left" Margin="309,96,0,0" VerticalAlignment="Top" Width="120"/>
+        <Slider x:Name="sld" HorizontalAlignment="Left" Margin="309,181,0,0" VerticalAlignment="Top" Width="201" Height="26" ValueChanged="sld_ValueChanged"/>
+        <Label x:Name="lbl_q" Content="Quantità:" HorizontalAlignment="Left" Margin="136,181,0,0" VerticalAlignment="Top" Width="147"/>
+        <Button x:Name="add_ordine" Content="Aggiungi ordine" HorizontalAlignment="Left" Margin="170,271,0,0" VerticalAlignment="Top" Width="135" Height="40" Click="add_ordine_Click"/>
+        <Button x:Name="chiudi" Content="Chiudi scontrino" HorizontalAlignment="Left" Margin="399,271,0,0" VerticalAlignment="Top" Width="146" Height="40"/>
+
+    </Grid>
+</Window>

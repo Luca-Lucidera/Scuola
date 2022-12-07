@@ -1,0 +1,10 @@
+G:\Il mio Drive\Scuola\QUINTA\Tecnologie\Laboratorio\BANCO_ALIMENTARI_TCP_XML\SERVER\bin\Debug\SERVER.exe.config
+G:\Il mio Drive\Scuola\QUINTA\Tecnologie\Laboratorio\BANCO_ALIMENTARI_TCP_XML\SERVER\bin\Debug\SERVER.exe
+G:\Il mio Drive\Scuola\QUINTA\Tecnologie\Laboratorio\BANCO_ALIMENTARI_TCP_XML\SERVER\bin\Debug\SERVER.pdb
+G:\Il mio Drive\Scuola\QUINTA\Tecnologie\Laboratorio\BANCO_ALIMENTARI_TCP_XML\SERVER\obj\Debug\SERVER.csproj.CoreCompileInputs.cache
+G:\Il mio Drive\Scuola\QUINTA\Tecnologie\Laboratorio\BANCO_ALIMENTARI_TCP_XML\SERVER\obj\Debug\SERVER.exe
+G:\Il mio Drive\Scuola\QUINTA\Tecnologie\Laboratorio\BANCO_ALIMENTARI_TCP_XML\SERVER\obj\Debug\SERVER.pdb
+G:\Il mio Drive\Scuola\QUINTA\Tecnologie\Laboratorio\BANCO_ALIMENTARI_TCP_XML\SERVER\obj\Debug\SERVER.csproj.AssemblyReference.cache
+G:\Il mio Drive\Scuola\QUINTA\Tecnologie\Laboratorio\BANCO_ALIMENTARI_TCP_XML\SERVER\bin\Debug\XmlLib.dll
+G:\Il mio Drive\Scuola\QUINTA\Tecnologie\Laboratorio\BANCO_ALIMENTARI_TCP_XML\SERVER\bin\Debug\XmlLib.pdb
+G:\Il mio Drive\Scuola\QUINTA\Tecnologie\Laboratorio\BANCO_ALIMENTARI_TCP_XML\SERVER\obj\Debug\SERVER.csproj.CopyComplete

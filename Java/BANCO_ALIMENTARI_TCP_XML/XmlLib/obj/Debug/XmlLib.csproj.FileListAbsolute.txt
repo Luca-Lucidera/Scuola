@@ -1,0 +1,6 @@
+C:\Progetti_scuola\XmlLib\XmlLib\bin\Debug\XmlLib.dll
+C:\Progetti_scuola\XmlLib\XmlLib\bin\Debug\XmlLib.pdb
+C:\Progetti_scuola\XmlLib\XmlLib\obj\Debug\XmlLib.csproj.AssemblyReference.cache
+C:\Progetti_scuola\XmlLib\XmlLib\obj\Debug\XmlLib.csproj.CoreCompileInputs.cache
+C:\Progetti_scuola\XmlLib\XmlLib\obj\Debug\XmlLib.dll
+C:\Progetti_scuola\XmlLib\XmlLib\obj\Debug\XmlLib.pdb

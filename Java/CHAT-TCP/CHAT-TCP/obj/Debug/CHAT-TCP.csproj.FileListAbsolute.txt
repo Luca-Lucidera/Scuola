@@ -1,0 +1,51 @@
+C:\Users\lucid\Desktop\CHAT-TCP\CHAT-TCP\bin\Debug\CHAT-TCP.exe.config
+C:\Users\lucid\Desktop\CHAT-TCP\CHAT-TCP\bin\Debug\CHAT-TCP.exe
+C:\Users\lucid\Desktop\CHAT-TCP\CHAT-TCP\bin\Debug\CHAT-TCP.pdb
+C:\Users\lucid\Desktop\CHAT-TCP\CHAT-TCP\obj\Debug\CHAT-TCP.csproj.AssemblyReference.cache
+C:\Users\lucid\Desktop\CHAT-TCP\CHAT-TCP\obj\Debug\CHAT-TCP.csproj.SuggestedBindingRedirects.cache
+C:\Users\lucid\Desktop\CHAT-TCP\CHAT-TCP\obj\Debug\MainWindow.g.cs
+C:\Users\lucid\Desktop\CHAT-TCP\CHAT-TCP\obj\Debug\App.g.cs
+C:\Users\lucid\Desktop\CHAT-TCP\CHAT-TCP\obj\Debug\CHAT-TCP_MarkupCompile.cache
+C:\Users\lucid\Desktop\CHAT-TCP\CHAT-TCP\obj\Debug\CHAT-TCP_MarkupCompile.lref
+C:\Users\lucid\Desktop\CHAT-TCP\CHAT-TCP\obj\Debug\MainWindow.baml
+C:\Users\lucid\Desktop\CHAT-TCP\CHAT-TCP\obj\Debug\CHAT-TCP.g.resources
+C:\Users\lucid\Desktop\CHAT-TCP\CHAT-TCP\obj\Debug\CHAT_TCP.Properties.Resources.resources
+C:\Users\lucid\Desktop\CHAT-TCP\CHAT-TCP\obj\Debug\CHAT-TCP.csproj.GenerateResource.cache
+C:\Users\lucid\Desktop\CHAT-TCP\CHAT-TCP\obj\Debug\CHAT-TCP.csproj.CoreCompileInputs.cache
+C:\Users\lucid\Desktop\CHAT-TCP\CHAT-TCP\obj\Debug\CHAT-TCP.exe
+C:\Users\lucid\Desktop\CHAT-TCP\CHAT-TCP\obj\Debug\CHAT-TCP.pdb
+C:\Users\lucid\Desktop\CLIENT SERVER C#\CHAT-TCP\CHAT-TCP\bin\Debug\CHAT-TCP.exe.config
+C:\Users\lucid\Desktop\CLIENT SERVER C#\CHAT-TCP\CHAT-TCP\bin\Debug\CHAT-TCP.exe
+C:\Users\lucid\Desktop\CLIENT SERVER C#\CHAT-TCP\CHAT-TCP\bin\Debug\CHAT-TCP.pdb
+C:\Users\lucid\Desktop\CLIENT SERVER C#\CHAT-TCP\CHAT-TCP\obj\Debug\CHAT-TCP.csproj.AssemblyReference.cache
+C:\Users\lucid\Desktop\CLIENT SERVER C#\CHAT-TCP\CHAT-TCP\obj\Debug\CHAT-TCP.csproj.SuggestedBindingRedirects.cache
+C:\Users\lucid\Desktop\CLIENT SERVER C#\CHAT-TCP\CHAT-TCP\obj\Debug\MainWindow.g.cs
+C:\Users\lucid\Desktop\CLIENT SERVER C#\CHAT-TCP\CHAT-TCP\obj\Debug\App.g.cs
+C:\Users\lucid\Desktop\CLIENT SERVER C#\CHAT-TCP\CHAT-TCP\obj\Debug\CHAT-TCP_MarkupCompile.cache
+C:\Users\lucid\Desktop\CLIENT SERVER C#\CHAT-TCP\CHAT-TCP\obj\Debug\CHAT-TCP_MarkupCompile.lref
+C:\Users\lucid\Desktop\CLIENT SERVER C#\CHAT-TCP\CHAT-TCP\obj\Debug\MainWindow.baml
+C:\Users\lucid\Desktop\CLIENT SERVER C#\CHAT-TCP\CHAT-TCP\obj\Debug\CHAT-TCP.g.resources
+C:\Users\lucid\Desktop\CLIENT SERVER C#\CHAT-TCP\CHAT-TCP\obj\Debug\CHAT_TCP.Properties.Resources.resources
+C:\Users\lucid\Desktop\CLIENT SERVER C#\CHAT-TCP\CHAT-TCP\obj\Debug\CHAT-TCP.csproj.GenerateResource.cache
+C:\Users\lucid\Desktop\CLIENT SERVER C#\CHAT-TCP\CHAT-TCP\obj\Debug\CHAT-TCP.csproj.CoreCompileInputs.cache
+C:\Users\lucid\Desktop\CLIENT SERVER C#\CHAT-TCP\CHAT-TCP\obj\Debug\CHAT-TCP.exe
+C:\Users\lucid\Desktop\CLIENT SERVER C#\CHAT-TCP\CHAT-TCP\obj\Debug\CHAT-TCP.pdb
+C:\Users\lucid\Desktop\CLIENT SERVER C#\CHAT-TCP\CHAT-TCP\obj\Debug\Messaggi.g.cs
+C:\Users\lucid\Desktop\CLIENT SERVER C#\CHAT-TCP\CHAT-TCP\obj\Debug\Messaggi.baml
+G:\Il mio Drive\Scuola\QUINTA\Tecnologie\Laboratorio\CHAT-TCP\CHAT-TCP\bin\Debug\CHAT-TCP.exe.config
+G:\Il mio Drive\Scuola\QUINTA\Tecnologie\Laboratorio\CHAT-TCP\CHAT-TCP\bin\Debug\CHAT-TCP.exe
+G:\Il mio Drive\Scuola\QUINTA\Tecnologie\Laboratorio\CHAT-TCP\CHAT-TCP\bin\Debug\CHAT-TCP.pdb
+G:\Il mio Drive\Scuola\QUINTA\Tecnologie\Laboratorio\CHAT-TCP\CHAT-TCP\obj\Debug\CHAT-TCP.csproj.AssemblyReference.cache
+G:\Il mio Drive\Scuola\QUINTA\Tecnologie\Laboratorio\CHAT-TCP\CHAT-TCP\obj\Debug\MainWindow.g.cs
+G:\Il mio Drive\Scuola\QUINTA\Tecnologie\Laboratorio\CHAT-TCP\CHAT-TCP\obj\Debug\Messaggi.g.cs
+G:\Il mio Drive\Scuola\QUINTA\Tecnologie\Laboratorio\CHAT-TCP\CHAT-TCP\obj\Debug\App.g.cs
+G:\Il mio Drive\Scuola\QUINTA\Tecnologie\Laboratorio\CHAT-TCP\CHAT-TCP\obj\Debug\CHAT-TCP_MarkupCompile.cache
+G:\Il mio Drive\Scuola\QUINTA\Tecnologie\Laboratorio\CHAT-TCP\CHAT-TCP\obj\Debug\CHAT-TCP_MarkupCompile.lref
+G:\Il mio Drive\Scuola\QUINTA\Tecnologie\Laboratorio\CHAT-TCP\CHAT-TCP\obj\Debug\MainWindow.baml
+G:\Il mio Drive\Scuola\QUINTA\Tecnologie\Laboratorio\CHAT-TCP\CHAT-TCP\obj\Debug\Messaggi.baml
+G:\Il mio Drive\Scuola\QUINTA\Tecnologie\Laboratorio\CHAT-TCP\CHAT-TCP\obj\Debug\CHAT-TCP.g.resources
+G:\Il mio Drive\Scuola\QUINTA\Tecnologie\Laboratorio\CHAT-TCP\CHAT-TCP\obj\Debug\CHAT_TCP.Properties.Resources.resources
+G:\Il mio Drive\Scuola\QUINTA\Tecnologie\Laboratorio\CHAT-TCP\CHAT-TCP\obj\Debug\CHAT-TCP.csproj.GenerateResource.cache
+G:\Il mio Drive\Scuola\QUINTA\Tecnologie\Laboratorio\CHAT-TCP\CHAT-TCP\obj\Debug\CHAT-TCP.csproj.CoreCompileInputs.cache
+G:\Il mio Drive\Scuola\QUINTA\Tecnologie\Laboratorio\CHAT-TCP\CHAT-TCP\obj\Debug\CHAT-TCP.exe
+G:\Il mio Drive\Scuola\QUINTA\Tecnologie\Laboratorio\CHAT-TCP\CHAT-TCP\obj\Debug\CHAT-TCP.pdb
